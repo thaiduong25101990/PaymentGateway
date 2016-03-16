@@ -1,0 +1,21 @@
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\OUTPUT\BRIBPSMaintaince.exe
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\OUTPUT\BRIBPSMaintaince.pdb
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRIBPS_Maintaince\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRIBPS_Maintaince\obj\Debug\BRIBPSMaintaince.ProjectInstaller.resources
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRIBPS_Maintaince\obj\Debug\BRIBPS_Maintaince.csproj.GenerateResource.Cache
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRIBPS_Maintaince\obj\Debug\BRIBPSMaintaince.exe
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRIBPS_Maintaince\obj\Debug\BRIBPSMaintaince.pdb
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\OUTPUT\BRIBPSMaintaince.exe
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\OUTPUT\BRIBPSMaintaince.pdb
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRIBPS_Maintaince\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRIBPS_Maintaince\obj\Debug\BRIBPSMaintaince.ProjectInstaller.resources
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRIBPS_Maintaince\obj\Debug\BRIBPS_Maintaince.csproj.GenerateResource.Cache
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRIBPS_Maintaince\obj\Debug\BRIBPSMaintaince.exe
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRIBPS_Maintaince\obj\Debug\BRIBPSMaintaince.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\OUTPUT\BRIBPSMaintaince.exe
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\OUTPUT\BRIBPSMaintaince.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_Maintaince\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_Maintaince\obj\Debug\BRIBPSMaintaince.ProjectInstaller.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_Maintaince\obj\Debug\BRIBPS_Maintaince.csproj.GenerateResource.Cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_Maintaince\obj\Debug\BRIBPSMaintaince.exe
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_Maintaince\obj\Debug\BRIBPSMaintaince.pdb

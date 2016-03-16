@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="clsDataSet" targetNamespace="http://tempuri.org/clsDataSet.xsd" xmlns:mstns="http://tempuri.org/clsDataSet.xsd" xmlns="http://tempuri.org/clsDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="clsDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="clsDataSet" msprop:Generator_UserDSName="clsDataSet" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="GWSERVICE_FTP" msprop:Generator_UserTableName="GWSERVICE_FTP" msprop:Generator_RowDeletedName="GWSERVICE_FTPRowDeleted" msprop:Generator_TableClassName="GWSERVICE_FTPDataTable" msprop:Generator_RowChangedName="GWSERVICE_FTPRowChanged" msprop:Generator_RowClassName="GWSERVICE_FTPRow" msprop:Generator_RowChangingName="GWSERVICE_FTPRowChanging" msprop:Generator_RowEvArgName="GWSERVICE_FTPRowChangeEvent" msprop:Generator_RowEvHandlerName="GWSERVICE_FTPRowChangeEventHandler" msprop:Generator_TablePropName="GWSERVICE_FTP" msprop:Generator_TableVarName="tableGWSERVICE_FTP" msprop:Generator_RowDeletingName="GWSERVICE_FTPRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_UserColumnName="ID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInTable="IDColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SERVICE_NAME" msprop:Generator_UserColumnName="SERVICE_NAME" msprop:Generator_ColumnPropNameInRow="SERVICE_NAME" msprop:Generator_ColumnVarNameInTable="columnSERVICE_NAME" msprop:Generator_ColumnPropNameInTable="SERVICE_NAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TASK_NAME" msprop:Generator_UserColumnName="TASK_NAME" msprop:Generator_ColumnPropNameInRow="TASK_NAME" msprop:Generator_ColumnVarNameInTable="columnTASK_NAME" msprop:Generator_ColumnPropNameInTable="TASK_NAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DESCRIPTION" msprop:Generator_UserColumnName="DESCRIPTION" msprop:Generator_ColumnPropNameInRow="DESCRIPTION" msprop:Generator_ColumnVarNameInTable="columnDESCRIPTION" msprop:Generator_ColumnPropNameInTable="DESCRIPTIONColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TIMEDELAY" msprop:Generator_UserColumnName="TIMEDELAY" msprop:Generator_ColumnPropNameInRow="TIMEDELAY" msprop:Generator_ColumnVarNameInTable="columnTIMEDELAY" msprop:Generator_ColumnPropNameInTable="TIMEDELAYColumn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,26 @@
+D:\MANG SANG MSB\BRSWIFT_TR_Inquiry\BRSWIFT_TR_Inquiry\bin\Debug\BRSWIFT_TR_Inquiry.exe
+D:\MANG SANG MSB\BRSWIFT_TR_Inquiry\BRSWIFT_TR_Inquiry\bin\Debug\BRSWIFT_TR_Inquiry.pdb
+D:\MANG SANG MSB\BRSWIFT_TR_Inquiry\BRSWIFT_TR_Inquiry\obj\Debug\ResolveAssemblyReference.cache
+D:\MANG SANG MSB\BRSWIFT_TR_Inquiry\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.ProjectInstaller.resources
+D:\MANG SANG MSB\BRSWIFT_TR_Inquiry\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.csproj.GenerateResource.Cache
+D:\MANG SANG MSB\BRSWIFT_TR_Inquiry\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.exe
+D:\MANG SANG MSB\BRSWIFT_TR_Inquiry\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.pdb
+D:\MANG SANG MSB\BRSWIFT_TR_Inquiry\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.SWIFTTR_Inquiry.resources
+D:\Service_TR\BRSWIFT_TR_Inquiry\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.exe
+D:\Service_TR\BRSWIFT_TR_Inquiry\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.pdb
+D:\Service_TR\BRSWIFT_TR_Inquiry\BRSWIFT_TR_Inquiry\bin\Debug\BRSWIFT_TR_Inquiry.exe
+D:\Service_TR\BRSWIFT_TR_Inquiry\BRSWIFT_TR_Inquiry\bin\Debug\BRSWIFT_TR_Inquiry.pdb
+D:\Service_TR\BRSWIFT_TR_Inquiry\BRSWIFT_TR_Inquiry\obj\Debug\ResolveAssemblyReference.cache
+D:\Service_TR\BRSWIFT_TR_Inquiry\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.ProjectInstaller.resources
+D:\Service_TR\BRSWIFT_TR_Inquiry\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.SWIFTTR_Inquiry.resources
+D:\Service_TR\BRSWIFT_TR_Inquiry\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.csproj.GenerateResource.Cache
+D:\MSB_SOURCE_BRIDGE\BR_Services\BRSWIFT_TR_Inquiry\bin\Debug\BRSWIFT_TR_Inquiry.exe
+D:\MSB_SOURCE_BRIDGE\BR_Services\BRSWIFT_TR_Inquiry\bin\Debug\BRSWIFT_TR_Inquiry.pdb
+D:\MSB_SOURCE_BRIDGE\BR_Services\OUTPUT\BRSWIFT_TR_Inquiry.exe
+D:\MSB_SOURCE_BRIDGE\BR_Services\OUTPUT\BRSWIFT_TR_Inquiry.pdb
+D:\MSB_SOURCE_BRIDGE\BR_Services\BRSWIFT_TR_Inquiry\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_SOURCE_BRIDGE\BR_Services\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.ProjectInstaller.resources
+D:\MSB_SOURCE_BRIDGE\BR_Services\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.SWIFTTR_Inquiry.resources
+D:\MSB_SOURCE_BRIDGE\BR_Services\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.csproj.GenerateResource.Cache
+D:\MSB_SOURCE_BRIDGE\BR_Services\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.exe
+D:\MSB_SOURCE_BRIDGE\BR_Services\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.pdb

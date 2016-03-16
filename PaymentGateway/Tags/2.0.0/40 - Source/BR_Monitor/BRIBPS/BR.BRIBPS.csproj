@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{650CF26E-8394-49AF-BD10-F8E092CC8EF9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BR.BRIBPS</RootNamespace>
+    <AssemblyName>BRIBPS</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\OUTPUT\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Branch\frmExtractData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Branch\frmExtractData.designer.cs">
+      <DependentUpon>frmExtractData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\clsDatagridviews.cs" />
+    <Compile Include="Class\clsForward.cs" />
+    <Compile Include="Class\clsSTATUS.cs" />
+    <Compile Include="frmIBPSBankMap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIBPSBankMap.Designer.cs">
+      <DependentUpon>frmIBPSBankMap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIBPSImpFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIBPSMsgFw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIBPSMsgFw.Designer.cs">
+      <DependentUpon>frmIBPSMsgFw.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIBPSMsgFwCurrentDay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIBPSMsgFwCurrentDay.Designer.cs">
+      <DependentUpon>frmIBPSMsgFwCurrentDay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIBPSMsgFwPreviousDay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIBPSMsgFwPreviousDay.Designer.cs">
+      <DependentUpon>frmIBPSMsgFwPreviousDay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIBPSMsgInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIBPSMsgInfo.Designer.cs">
+      <DependentUpon>frmIBPSMsgInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIBPSMsgList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIBPSMsgList.Designer.cs">
+      <DependentUpon>frmIBPSMsgList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIBPSRecManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIBPSRecManagement.Designer.cs">
+      <DependentUpon>frmIBPSRecManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIBPSResend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIBPSResend.designer.cs">
+      <DependentUpon>frmIBPSResend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIBPSResendMsgInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIBPSResendMsgInfo.designer.cs">
+      <DependentUpon>frmIBPSResendMsgInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIBPS_TAD_MAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIBPS_TAD_MAP.Designer.cs">
+      <DependentUpon>frmIBPS_TAD_MAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmImpfiletext.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImpfiletext.Designer.cs">
+      <DependentUpon>frmImpfiletext.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIQSList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIQSList.Designer.cs">
+      <DependentUpon>frmIQSList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIQSNew1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIQSNew1.Designer.cs">
+      <DependentUpon>frmIQSNew1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIQSNew2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIQSNew2.Designer.cs">
+      <DependentUpon>frmIQSNew2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMessageError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMessageError.Designer.cs">
+      <DependentUpon>frmMessageError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMessageImportError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMessageImportError.designer.cs">
+      <DependentUpon>frmMessageImportError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRates.Designer.cs">
+      <DependentUpon>frmRates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectTypeIQS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectTypeIQS.Designer.cs">
+      <DependentUpon>frmSelectTypeIQS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTADInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTADInfo.Designer.cs">
+      <DependentUpon>frmTADInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIBPSRec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIBPSRec.Designer.cs">
+      <DependentUpon>frmIBPSRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTAD_MAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTAD_MAP.Designer.cs">
+      <DependentUpon>frmTAD_MAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmView.Designer.cs">
+      <DependentUpon>frmView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Reconcile\clsIBPS_MSG_REC.cs" />
+    <Compile Include="Technical\clsConsole.cs" />
+    <Compile Include="Technical\clsThread.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Branch\frmExtractData.resx">
+      <DependentUpon>frmExtractData.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIBPSBankMap.resx">
+      <DependentUpon>frmIBPSBankMap.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIBPSImpFile.resx">
+      <DependentUpon>frmIBPSImpFile.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIBPSMsgFw.resx">
+      <DependentUpon>frmIBPSMsgFw.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIBPSMsgFwCurrentDay.resx">
+      <DependentUpon>frmIBPSMsgFwCurrentDay.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIBPSMsgFwPreviousDay.resx">
+      <DependentUpon>frmIBPSMsgFwPreviousDay.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIBPSMsgInfo.resx">
+      <DependentUpon>frmIBPSMsgInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIBPSMsgList.resx">
+      <DependentUpon>frmIBPSMsgList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIBPSRecManagement.resx">
+      <DependentUpon>frmIBPSRecManagement.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIBPSResend.resx">
+      <DependentUpon>frmIBPSResend.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIBPSResendMsgInfo.resx">
+      <DependentUpon>frmIBPSResendMsgInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIBPS_TAD_MAP.resx">
+      <DependentUpon>frmIBPS_TAD_MAP.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImpfiletext.resx">
+      <DependentUpon>frmImpfiletext.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIQSList.resx">
+      <DependentUpon>frmIQSList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIQSNew1.resx">
+      <DependentUpon>frmIQSNew1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIQSNew2.resx">
+      <DependentUpon>frmIQSNew2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMessageError.resx">
+      <DependentUpon>frmMessageError.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMessageImportError.resx">
+      <DependentUpon>frmMessageImportError.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRates.resx">
+      <DependentUpon>frmRates.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectTypeIQS.resx">
+      <DependentUpon>frmSelectTypeIQS.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTADInfo.resx">
+      <DependentUpon>frmTADInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIBPSRec.resx">
+      <DependentUpon>frmIBPSRec.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTAD_MAP.resx">
+      <DependentUpon>frmTAD_MAP.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmView.resx">
+      <DependentUpon>frmView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BRBusinessObject\BR.BRBusinessObject.csproj">
+      <Project>{77688FBA-6189-446D-A986-92B8A216C2B3}</Project>
+      <Name>BR.BRBusinessObject</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BRLib\BR.BRLib.csproj">
+      <Project>{F8099B06-8A6B-4084-9E0D-5F7ECDC9EB5F}</Project>
+      <Name>BR.BRLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BRSYSTEM\BR.BRSYSTEM.csproj">
+      <Project>{C3B814DD-46CD-41B6-8F14-5B5EA8C410E9}</Project>
+      <Name>BR.BRSYSTEM</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

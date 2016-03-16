@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MSG_ID" type="xs:string" minOccurs="0" />
+              <xs:element name="MSG_DATE" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="MSG_TYPE" type="xs:string" minOccurs="0" />
+              <xs:element name="MSG_REF" type="xs:string" minOccurs="0" />
+              <xs:element name="MSG_STATUS" type="xs:string" minOccurs="0" />
+              <xs:element name="TXN_CODE" type="xs:string" minOccurs="0" />
+              <xs:element name="TXN_REF" type="xs:string" minOccurs="0" />
+              <xs:element name="APC_BANK_ID" type="xs:string" minOccurs="0" />
+              <xs:element name="APC_BANK_CODE" type="xs:string" minOccurs="0" />
+              <xs:element name="APC_BANK_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="APC_ACC" type="xs:string" minOccurs="0" />
+              <xs:element name="APC_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="APC_ADDRESS" type="xs:string" minOccurs="0" />
+              <xs:element name="APC_IDNO" type="xs:string" minOccurs="0" />
+              <xs:element name="APC_IDDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="APC_IDPLACE" type="xs:string" minOccurs="0" />
+              <xs:element name="BEN_BANK_ID" type="xs:string" minOccurs="0" />
+              <xs:element name="BEN_BANK_CODE" type="xs:string" minOccurs="0" />
+              <xs:element name="BEN_BANK_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="BEN_ACC" type="xs:string" minOccurs="0" />
+              <xs:element name="BEN_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="BEN_ADDRESS" type="xs:string" minOccurs="0" />
+              <xs:element name="BEN_IDNO" type="xs:string" minOccurs="0" />
+              <xs:element name="BEN_IDDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="BEN_IDPLACE" type="xs:string" minOccurs="0" />
+              <xs:element name="VALUE_DATE" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="CREATE_DATE" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="AMOUNT" type="xs:decimal" minOccurs="0" />
+              <xs:element name="CURR_CODE" type="xs:string" minOccurs="0" />
+              <xs:element name="CHARGE_CODE" type="xs:string" minOccurs="0" />
+              <xs:element name="PAYMENT_DETAIL" type="xs:string" minOccurs="0" />
+              <xs:element name="CREATEDBY" type="xs:string" minOccurs="0" />
+              <xs:element name="CREATE_TIME" type="xs:string" minOccurs="0" />
+              <xs:element name="APPROVEDBY" type="xs:string" minOccurs="0" />
+              <xs:element name="APPROVE_TIME" type="xs:string" minOccurs="0" />
+              <xs:element name="MSGDIR" type="xs:string" minOccurs="0" />
+              <xs:element name="PRINTED" type="xs:string" minOccurs="0" />
+              <xs:element name="PRINT_TIME" type="xs:string" minOccurs="0" />
+              <xs:element name="sender_ID" type="xs:string" minOccurs="0" />
+              <xs:element name="receiver_id" type="xs:string" minOccurs="0" />
+              <xs:element name="sender_name" type="xs:string" minOccurs="0" />
+              <xs:element name="receiver_name" type="xs:string" minOccurs="0" />
+              <xs:element name="TRANSMIT_TIME" type="xs:string" minOccurs="0" />
+              <xs:element name="CONFIRM_TIME" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

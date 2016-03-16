@@ -1,0 +1,33 @@
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\OUTPUT\BRIBPSExport.exe.manifest
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\OUTPUT\BRIBPSExport.application
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\OUTPUT\BRIBPSExport.exe
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\OUTPUT\BRIBPSExport.pdb
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRIBPS_Export\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRIBPS_Export\obj\Debug\GWIBPSExport.ProjectInstaller.resources
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRIBPS_Export\obj\Debug\BRIBPS_Export.csproj.GenerateResource.Cache
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRIBPS_Export\obj\Debug\BRIBPSExport.exe.manifest
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRIBPS_Export\obj\Debug\BRIBPSExport.application
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRIBPS_Export\obj\Debug\BRIBPSExport.exe
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRIBPS_Export\obj\Debug\BRIBPSExport.pdb
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\OUTPUT\BRIBPSExport.exe.manifest
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\OUTPUT\BRIBPSExport.application
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\OUTPUT\BRIBPSExport.exe
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\OUTPUT\BRIBPSExport.pdb
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRIBPS_Export\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRIBPS_Export\obj\Debug\GWIBPSExport.ProjectInstaller.resources
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRIBPS_Export\obj\Debug\BRIBPS_Export.csproj.GenerateResource.Cache
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRIBPS_Export\obj\Debug\BRIBPSExport.exe.manifest
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRIBPS_Export\obj\Debug\BRIBPSExport.application
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRIBPS_Export\obj\Debug\BRIBPSExport.exe
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRIBPS_Export\obj\Debug\BRIBPSExport.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\OUTPUT\BRIBPSExport.exe.manifest
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\OUTPUT\BRIBPSExport.application
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\OUTPUT\BRIBPSExport.exe
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\OUTPUT\BRIBPSExport.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_Export\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_Export\obj\Debug\GWIBPSExport.ProjectInstaller.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_Export\obj\Debug\BRIBPS_Export.csproj.GenerateResource.Cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_Export\obj\Debug\BRIBPSExport.exe.manifest
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_Export\obj\Debug\BRIBPSExport.application
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_Export\obj\Debug\BRIBPSExport.exe
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_Export\obj\Debug\BRIBPSExport.pdb

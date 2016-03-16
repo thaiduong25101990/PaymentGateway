@@ -1,0 +1,7 @@
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\OUTPUT\BRSWIFTTFMaintaince.exe
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\OUTPUT\BRSWIFTTFMaintaince.pdb
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRSWIFT_TF_Maintaince\obj\Release\ResolveAssemblyReference.cache
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRSWIFT_TF_Maintaince\obj\Release\BRSWIFTTFMaintaince.ProjectInstaller.resources
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRSWIFT_TF_Maintaince\obj\Release\BRSWIFT_TF_Maintaince.csproj.GenerateResource.Cache
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRSWIFT_TF_Maintaince\obj\Release\BRSWIFTTFMaintaince.exe
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRSWIFT_TF_Maintaince\obj\Release\BRSWIFTTFMaintaince.pdb

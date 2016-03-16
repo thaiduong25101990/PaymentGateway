@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BR_Services">
+</Property><Property Name="Solution File" Value="D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BR_Services.sln">
+</Property><Property Name="Date" Value="Friday, December 23, 2011">
+</Property><Property Name="Time" Value="17:04 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Encrypt" Source="Encrypt_Folder\Encrypt.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Encrypt" Source="Encrypt_Folder\Encrypt.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Decrypt" Source="Encrypt_Folder\Decrypt.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Decrypt" Source="Encrypt_Folder\Decrypt.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Demo_Encrypt" Source="Encrypt_Folder\Demo_Encrypt.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Demo_Encrypt" Source="Encrypt_Folder\Demo_Encrypt.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DllASCIIAS400" Source="DllASCIIAS400\DllASCIIAS400.vcproj" Description="Converting project file 'D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\DllASCIIAS400\DllASCIIAS400.vcproj'.">
+</Event><Event ErrorLevel="1" Project="DllASCIIAS400" Source="DllASCIIAS400\DllASCIIAS400.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="DllASCIIAS400" Source="DllASCIIAS400\DllASCIIAS400.vcproj" Description="VCConvertEngine could not convert attribute UseUnicodeResponseFiles = false under Tool VCManifestTool.">
+</Event><Event ErrorLevel="1" Project="DllASCIIAS400" Source="DllASCIIAS400\DllASCIIAS400.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="DllASCIIAS400" Source="DllASCIIAS400\DllASCIIAS400.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="DllASCIIAS400" Source="DllASCIIAS400\DllASCIIAS400.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="DllASCIIAS400" Source="DllASCIIAS400\DllASCIIAS400.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="DllASCIIAS400" Source="DllASCIIAS400\DllASCIIAS400.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="DllASCIIAS400" Source="DllASCIIAS400\DllASCIIAS400.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="DllASCIIAS400" Source="DllASCIIAS400\DllASCIIAS400.vcproj" Description="MSB8012: $(TargetPath) ('D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\DllASCIIAS400\..\OUTPUT\DllASCIIAS400.dll') does not match the Linker's OutputFile property value '..\OUTPUT\DllASCIIAS400.dll' ('D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\OUTPUT\DllASCIIAS400.dll') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="DllASCIIAS400" Source="DllASCIIAS400\DllASCIIAS400.vcproj" Description="MSB8012: $(TargetPath) ('D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\DllASCIIAS400\..\OUTPUT\DllASCIIAS400.dll') does not match the Linker's OutputFile property value '..\OUTPUT\DllASCIIAS400.dll' ('D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\OUTPUT\DllASCIIAS400.dll') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="DllASCIIAS400" Source="DllASCIIAS400\DllASCIIAS400.vcproj" Description="Done converting to new project file 'D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\DllASCIIAS400\DllASCIIAS400.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="DllASCIIAS400" Source="DllASCIIAS400\DllASCIIAS400.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRFTPReconcile" Source="BRFTPReconside\BRFTPReconcile.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRFTPReconcile" Source="BRFTPReconside\BRFTPReconcile.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRFTPService" Source="BRFTPService\BRFTPService.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRFTPService" Source="BRFTPService\BRFTPService.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRIBPS_Export" Source="BRIBPS_Export\BRIBPS_Export.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRIBPS_Export" Source="BRIBPS_Export\BRIBPS_Export.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRIBPS_Import" Source="BRIBPS_Import\BRIBPS_Import.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRIBPS_Import" Source="BRIBPS_Import\BRIBPS_Import.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRIBPS_Inquiry" Source="BRIBPS_Inquiry\BRIBPS_Inquiry.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRIBPS_Inquiry" Source="BRIBPS_Inquiry\BRIBPS_Inquiry.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRIBPS_Maintaince" Source="BRIBPS_Maintaince\BRIBPS_Maintaince.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRIBPS_Maintaince" Source="BRIBPS_Maintaince\BRIBPS_Maintaince.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRIBPS_Send" Source="BRIBPS_Send\BRIBPS_Send.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRIBPS_Send" Source="BRIBPS_Send\BRIBPS_Send.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRReconcileIN" Source="BRReconcileIN\BRReconcileIN.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRReconcileIN" Source="BRReconcileIN\BRReconcileIN.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRREConcileRead" Source="BRRECONSIDERead\BRREConcileRead.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRREConcileRead" Source="BRRECONSIDERead\BRREConcileRead.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRSWIFT_Export" Source="BRSWIFTExportOut\BRSWIFT_Export.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRSWIFT_Export" Source="BRSWIFTExportOut\BRSWIFT_Export.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRSWIFT_Import" Source="BRSWIFTImportIn\BRSWIFT_Import.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRSWIFT_Import" Source="BRSWIFTImportIn\BRSWIFT_Import.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRSWIFT_RM_Inquiry" Source="BRSWIFT_RM_Inquiry\BRSWIFT_RM_Inquiry.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRSWIFT_RM_Inquiry" Source="BRSWIFT_RM_Inquiry\BRSWIFT_RM_Inquiry.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRSWIFT_RM_Maintaince" Source="BRSWIFT_RM_Maintaince\BRSWIFT_RM_Maintaince.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRSWIFT_RM_Maintaince" Source="BRSWIFT_RM_Maintaince\BRSWIFT_RM_Maintaince.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRSWIFT_RM_Send" Source="BRSWIFT_RM_Send\BRSWIFT_RM_Send.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRSWIFT_RM_Send" Source="BRSWIFT_RM_Send\BRSWIFT_RM_Send.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRSWIFT_TF_Inquiry" Source="BRSWIFT_TF_Inquiry\BRSWIFT_TF_Inquiry.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRSWIFT_TF_Inquiry" Source="BRSWIFT_TF_Inquiry\BRSWIFT_TF_Inquiry.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRSWIFT_TF_Maintaince" Source="BRSWIFT_TF_Maintaince\BRSWIFT_TF_Maintaince.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRSWIFT_TF_Maintaince" Source="BRSWIFT_TF_Maintaince\BRSWIFT_TF_Maintaince.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRSWIFT_TF_Send" Source="BRSWIFT_TF_Send\BRSWIFT_TF_Send.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRSWIFT_TF_Send" Source="BRSWIFT_TF_Send\BRSWIFT_TF_Send.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRVCB_Export" Source="BRVCB_EXPORT\BRVCB_Export.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRVCB_Export" Source="BRVCB_EXPORT\BRVCB_Export.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRVCB_Import" Source="BRVCB_IMPORT\BRVCB_Import.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRVCB_Import" Source="BRVCB_IMPORT\BRVCB_Import.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRVCB_Inquiry" Source="BRVCB_Inquiry\BRVCB_Inquiry.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRVCB_Inquiry" Source="BRVCB_Inquiry\BRVCB_Inquiry.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRSWIFT_TR_Inquiry" Source="BRSWIFT_TR_Inquiry\BRSWIFT_TR_Inquiry.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRSWIFT_TR_Inquiry" Source="BRSWIFT_TR_Inquiry\BRSWIFT_TR_Inquiry.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRIBPS_OL3_Inquiry" Source="BRIBPS_OL3_Inquiry\BRIBPS_OL3_Inquiry.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRIBPS_OL3_Inquiry" Source="BRIBPS_OL3_Inquiry\BRIBPS_OL3_Inquiry.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRBRANCH_Inquiry" Source="BRANCH_Inquiry\BRBRANCH_Inquiry.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRBRANCH_Inquiry" Source="BRANCH_Inquiry\BRBRANCH_Inquiry.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BRIBPS_TR_Inquiry" Source="BRIBPS_TRInquiry\BRIBPS_TR_Inquiry.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BRIBPS_TR_Inquiry" Source="BRIBPS_TRInquiry\BRIBPS_TR_Inquiry.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BR_Services.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BR_Services.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Encrypt" Source="Encrypt_Folder\Encrypt.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Decrypt" Source="Encrypt_Folder\Decrypt.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Demo_Encrypt" Source="Encrypt_Folder\Demo_Encrypt.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRFTPReconcile" Source="BRFTPReconside\BRFTPReconcile.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRFTPService" Source="BRFTPService\BRFTPService.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRIBPS_Export" Source="BRIBPS_Export\BRIBPS_Export.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRIBPS_Import" Source="BRIBPS_Import\BRIBPS_Import.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRIBPS_Inquiry" Source="BRIBPS_Inquiry\BRIBPS_Inquiry.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRIBPS_Maintaince" Source="BRIBPS_Maintaince\BRIBPS_Maintaince.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRIBPS_Send" Source="BRIBPS_Send\BRIBPS_Send.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRReconcileIN" Source="BRReconcileIN\BRReconcileIN.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRREConcileRead" Source="BRRECONSIDERead\BRREConcileRead.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRSWIFT_Export" Source="BRSWIFTExportOut\BRSWIFT_Export.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRSWIFT_Import" Source="BRSWIFTImportIn\BRSWIFT_Import.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRSWIFT_RM_Inquiry" Source="BRSWIFT_RM_Inquiry\BRSWIFT_RM_Inquiry.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRSWIFT_RM_Maintaince" Source="BRSWIFT_RM_Maintaince\BRSWIFT_RM_Maintaince.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRSWIFT_RM_Send" Source="BRSWIFT_RM_Send\BRSWIFT_RM_Send.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRSWIFT_TF_Inquiry" Source="BRSWIFT_TF_Inquiry\BRSWIFT_TF_Inquiry.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRSWIFT_TF_Maintaince" Source="BRSWIFT_TF_Maintaince\BRSWIFT_TF_Maintaince.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRSWIFT_TF_Send" Source="BRSWIFT_TF_Send\BRSWIFT_TF_Send.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRVCB_Export" Source="BRVCB_EXPORT\BRVCB_Export.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRVCB_Import" Source="BRVCB_IMPORT\BRVCB_Import.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRVCB_Inquiry" Source="BRVCB_Inquiry\BRVCB_Inquiry.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRSWIFT_TR_Inquiry" Source="BRSWIFT_TR_Inquiry\BRSWIFT_TR_Inquiry.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRIBPS_OL3_Inquiry" Source="BRIBPS_OL3_Inquiry\BRIBPS_OL3_Inquiry.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRBRANCH_Inquiry" Source="BRANCH_Inquiry\BRBRANCH_Inquiry.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BRIBPS_TR_Inquiry" Source="BRIBPS_TRInquiry\BRIBPS_TR_Inquiry.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

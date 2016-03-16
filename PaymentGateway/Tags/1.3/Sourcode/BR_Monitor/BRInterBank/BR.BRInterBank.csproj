@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3701A822-1F9D-4DA6-B75D-A4F5B64FBA95}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BR.BRInterBank</RootNamespace>
+    <AssemblyName>BRInterBank</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\OUTPUT\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="Office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\clsDatagridviews.cs" />
+    <Compile Include="Class\clsStatus.cs" />
+    <Compile Include="frmIQSList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIQSList.Designer.cs">
+      <DependentUpon>frmIQSList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIQSNew1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIQSNew1.Designer.cs">
+      <DependentUpon>frmIQSNew1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIQSNew2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIQSNew2.Designer.cs">
+      <DependentUpon>frmIQSNew2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMessageImportError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMessageImportError.Designer.cs">
+      <DependentUpon>frmMessageImportError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectTypeIQS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectTypeIQS.Designer.cs">
+      <DependentUpon>frmSelectTypeIQS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVCBFeeCal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVCBFeeCal.designer.cs">
+      <DependentUpon>frmVCBFeeCal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVCBImp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVCBRec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVCBRec.Designer.cs">
+      <DependentUpon>frmVCBRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVCBMsgInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVCBMsgInfo.Designer.cs">
+      <DependentUpon>frmVCBMsgInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVCBMsgList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVCBMsgList.Designer.cs">
+      <DependentUpon>frmVCBMsgList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVCBReceive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVCBReceive.Designer.cs">
+      <DependentUpon>frmVCBReceive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVCBResend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVCBResend.designer.cs">
+      <DependentUpon>frmVCBResend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVCBResendInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVCBResendInfo.designer.cs">
+      <DependentUpon>frmVCBResendInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Reconcile\clsVCB_MSG_REC.cs" />
+    <Compile Include="Tools\clsComBo.cs" />
+    <Compile Include="Tools\clsCSS.cs" />
+    <Compile Include="Tools\clsData.cs" />
+    <Compile Include="Tools\clsDataGrid.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmIQSList.resx">
+      <DependentUpon>frmIQSList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIQSNew1.resx">
+      <DependentUpon>frmIQSNew1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIQSNew2.resx">
+      <DependentUpon>frmIQSNew2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMessageImportError.resx">
+      <DependentUpon>frmMessageImportError.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectTypeIQS.resx">
+      <DependentUpon>frmSelectTypeIQS.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVCBFeeCal.resx">
+      <DependentUpon>frmVCBFeeCal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVCBImp.resx">
+      <DependentUpon>frmVCBImp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVCBRec.resx">
+      <DependentUpon>frmVCBRec.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVCBMsgInfo.resx">
+      <DependentUpon>frmVCBMsgInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVCBMsgList.resx">
+      <DependentUpon>frmVCBMsgList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVCBReceive.resx">
+      <DependentUpon>frmVCBReceive.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVCBResend.resx">
+      <DependentUpon>frmVCBResend.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVCBResendInfo.resx">
+      <DependentUpon>frmVCBResendInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BRBusinessObject\BR.BRBusinessObject.csproj">
+      <Project>{77688FBA-6189-446D-A986-92B8A216C2B3}</Project>
+      <Name>BR.BRBusinessObject</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BRLib\BR.BRLib.csproj">
+      <Project>{F8099B06-8A6B-4084-9E0D-5F7ECDC9EB5F}</Project>
+      <Name>BR.BRLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BRSWIFT\BR.BRSWIFT.csproj">
+      <Project>{8390BBA2-4FAB-49BE-8242-E1D65F42A20B}</Project>
+      <Name>BR.BRSWIFT</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BRSYSTEM\BR.BRSYSTEM.csproj">
+      <Project>{C3B814DD-46CD-41B6-8F14-5B5EA8C410E9}</Project>
+      <Name>BR.BRSYSTEM</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,774 @@
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRMONITOR.exe
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_08_DC.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_06.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03_1.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS10.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_04.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_05.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_07.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_2.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_1.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT_TF.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_03.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS09_CN.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS02_CN.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03_1_CN.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03_2.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS04.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS05.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS06.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS07.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS08.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS09.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_02.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_04_CN.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_1.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_2.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_FEE_CAL.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BK02.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS02.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS02_A.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS17.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS01.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_BM02.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_ALL.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_RECONCILE.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_03_DC.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_03_R.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_08.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_08_R.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_09.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_DC.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT_RECONCILE.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_RM.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_RM_R.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\TAD_PRINT.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_03.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_04.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_04_1.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_05.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_05_1.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_ALL.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_RECONCILE.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS01.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRIDGE.ico
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BK02.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS01.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS02.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS02_A.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS02_CN.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03_1.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03_1_CN.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03_2.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS04.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS05.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS06.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS07.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS08.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS09.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS09_CN.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS10.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS17.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS01.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_BM02.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_1.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_2.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_ALL.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_RECONCILE.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_02.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_03.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_03_DC.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_03_R.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_04.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_05.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_06.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_07.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_08.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_08_DC.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_08_R.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_09.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_DC.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_FEE_CAL.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT_RECONCILE.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT_TF.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_RM.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_RM_R.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\TAD_PRINT.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_03.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_04.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_04_1.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_04_CN.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_05.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_05_1.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_1.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_2.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_ALL.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_RECONCILE.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\App.config
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRMONITOR.exe.config
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRMONITOR.exe.manifest
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRMONITOR.application
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BR.BRMONITOR.frmMain.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.Properties.Resources.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BR.BRMONITOR.csproj.GenerateResource.Cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.exe.manifest
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.application
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.exe
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.pdb
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRMONITOR.pdb
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BK02_DETAIL.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\BK02_DETAIL.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL_DETAIL.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL_DETAIL_EXCEL.rpt
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL_DETAIL.cs
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL_DETAIL_EXCEL.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL_DETAIL.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL_DETAIL_EXCEL.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BK02_DETAIL.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_08_DC.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_06.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03_1.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS10.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_04.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_05.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_07.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_2.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_1.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT_TF.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_03.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS09_CN.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS02_CN.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03_1_CN.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03_2.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS04.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS05.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS06.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS07.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS08.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS09.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_02.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_04_CN.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_1.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_2.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_FEE_CAL.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BK02.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS02.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS02_A.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS17.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS01.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_BM02.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_ALL.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_RECONCILE.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_03_DC.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_03_R.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_08.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_08_R.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_09.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_DC.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT_RECONCILE.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_RM.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_RM_R.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\TAD_PRINT.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_03.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_04.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_04_1.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_05.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_05_1.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_ALL.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_RECONCILE.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS01.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRIDGE.ico
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_03_1.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BK02.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BK02_DETAIL.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS01.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS02.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS02_A.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS02_CN.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03_1.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03_1_CN.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03_2.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS04.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS05.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS06.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS07.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS08.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS09.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS09_CN.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS10.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS17.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS01.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_BM02.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_1.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_2.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_ALL.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_RECONCILE.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_02.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_03.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_03_DC.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_03_R.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_04.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_05.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_06.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_07.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_08.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_08_DC.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_08_R.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_09.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_DC.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_FEE_CAL.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT_RECONCILE.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT_TF.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_RM.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_RM_R.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\TAD_PRINT.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_03.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_03_1.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_04.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_04_1.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_04_CN.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_05.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_05_1.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL_DETAIL.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL_DETAIL_EXCEL.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_1.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_2.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_ALL.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_RECONCILE.cs
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\App.config
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRMONITOR.exe.config
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRMONITOR.exe.manifest
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRMONITOR.application
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRMONITOR.exe
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRMONITOR.pdb
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BR.BRMONITOR.frmMain.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.Properties.Resources.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BR.BRMONITOR.csproj.GenerateResource.Cache
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.exe.manifest
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.application
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.exe
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.pdb
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS11.rpt
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS11.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS11.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS13.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS18.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS19.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_07.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL_DETAIL.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL_DETAIL_EXCEL.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BK02_DETAIL.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_08_DC.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_06.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03_1.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS10.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_04.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_05.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_07.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_2.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_1.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT_TF.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_03.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS09_CN.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS02_CN.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03_1_CN.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03_2.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS04.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS05.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS06.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS07.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS08.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS09.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_02.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_04_CN.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_1.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_2.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_FEE_CAL.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BK02.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS02.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS02_A.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS17.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS01.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_BM02.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_ALL.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_RECONCILE.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_03_DC.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_03_R.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_08.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_08_R.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_09.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_DC.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT_RECONCILE.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_RM.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_RM_R.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\TAD_PRINT.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_03.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_04.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_04_1.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_05.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_05_1.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_ALL.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_RECONCILE.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS01.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRIDGE.ico
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_03_1.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BK02.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BK02_DETAIL.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS01.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS02.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS02_A.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS02_CN.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03_1.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03_1_CN.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS03_2.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS04.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS05.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS06.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS07.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS08.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS09.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS09_CN.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS10.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS11.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS13.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS17.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS18.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS19.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS01.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_BM02.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_1.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_2.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_ALL.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_RECONCILE.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_02.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_03.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_03_DC.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_03_R.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_04.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_05.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_06.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_07.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_08.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_08_DC.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_08_R.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_09.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_DC.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_FEE_CAL.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT_RECONCILE.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT_TF.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_RM.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\SWIFT_RM_R.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\TAD_PRINT.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_03.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_03_1.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_04.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_04_1.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_04_CN.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_05.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_05_1.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_07.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL_DETAIL.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL_DETAIL_EXCEL.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_1.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_2.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_ALL.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_PRINT_RECONCILE.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\App.config
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRMONITOR.exe.config
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRMONITOR.exe.manifest
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRMONITOR.application
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRMONITOR.exe
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRMONITOR.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BR.BRMONITOR.frmMain.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.Properties.Resources.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BR.BRMONITOR.csproj.GenerateResource.Cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.exe.manifest
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.application
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.exe
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS19_2.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS20.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS21.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_08.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_09.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS19_2.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS20.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS21.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_08.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\VCB_09.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS18_2.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\rpt\BM_IBPS18_2.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\BRMONITOR.exe.config
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.exe
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS11.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS13.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS18.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS19.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS19_2.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS20.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS21.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS18_2.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_08.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_09.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_07.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL_DETAIL.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL_DETAIL_EXCEL.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BK02_DETAIL.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_08_DC.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_06.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS03_1.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS10.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_04.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_05.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_07.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_2.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_1.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT_TF.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_03.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS09_CN.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS02_CN.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS03_1_CN.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS03_2.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS04.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS05.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS06.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS07.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS08.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS09.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_02.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_04_CN.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_PRINT_1.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_PRINT_2.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_FEE_CAL.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BK02.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS02.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS02_A.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS03.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS17.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\IBPS01.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\IBPS_BM02.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_ALL.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_RECONCILE.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_03_DC.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_03_R.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_08.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_08_R.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_09.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_DC.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT_RECONCILE.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_RM.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_RM_R.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\TAD_PRINT.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_03.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_04.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_04_1.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_05.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_05_1.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_PRINT.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_PRINT_ALL.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_PRINT_RECONCILE.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS01.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\BRIDGE.ico
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_03_1.rpt
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BK02.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BK02_DETAIL.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS01.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS02.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS02_A.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS02_CN.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS03.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS03_1.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS03_1_CN.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS03_2.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS04.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS05.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS06.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS07.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS08.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS09.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS09_CN.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS10.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS11.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS13.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS17.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS18.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS18_2.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS19.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS19_2.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS20.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\BM_IBPS21.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\IBPS01.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\IBPS_BM02.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_1.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_2.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_ALL.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_RECONCILE.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_02.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_03.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_03_DC.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_03_R.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_04.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_05.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_06.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_07.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_08.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_08_DC.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_08_R.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_09.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_DC.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_FEE_CAL.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT_RECONCILE.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT_TF.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_RM.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\SWIFT_RM_R.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\TAD_PRINT.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_03.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_03_1.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_04.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_04_1.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_04_CN.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_05.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_05_1.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_07.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_08.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_09.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL_DETAIL.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL_DETAIL_EXCEL.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_PRINT.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_PRINT_1.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_PRINT_2.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_PRINT_ALL.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\rpt\VCB_PRINT_RECONCILE.cs
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\App.config
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\BRMONITOR.exe.manifest
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\BRMONITOR.application
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\BRMONITOR.exe
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\BRMONITOR.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRMONITOR\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRMONITOR\obj\Debug\BR.BRMONITOR.frmMain.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.Properties.Resources.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRMONITOR\obj\Debug\BR.BRMONITOR.csproj.GenerateResource.Cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.exe.manifest
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.application
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS11.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS13.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS18.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS19.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS19_2.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS20.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS21.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS18_2.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_08.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_09.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_07.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL_DETAIL.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL_DETAIL_EXCEL.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BK02_DETAIL.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_08_DC.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_06.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS03_1.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS10.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_04.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_05.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_07.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_2.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_1.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT_TF.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_03.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS09_CN.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS02_CN.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS03_1_CN.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS03_2.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS04.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS05.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS06.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS07.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS08.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS09.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_02.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_04_CN.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_PRINT_1.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_PRINT_2.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_FEE_CAL.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BK02.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS02.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS02_A.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS03.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS17.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\IBPS01.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\IBPS_BM02.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_ALL.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_RECONCILE.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_03_DC.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_03_R.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_08.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_08_R.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_09.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_DC.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT_RECONCILE.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_RM.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_RM_R.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\TAD_PRINT.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_03.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_04.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_04_1.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_05.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_05_1.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_PRINT.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_PRINT_ALL.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_PRINT_RECONCILE.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS01.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\BRIDGE.ico
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_TTSP01.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_TTSP02.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_TTSP04.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_TTSP05.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\IQS_PRINT_ALL.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\MT103.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\TTSP_PRINT_2 - Copy.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\TTSP_PRINT_2.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\TTSP_PRINT_ALL.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\TTSP_PRINT_RECONCILE.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\TTSP_PRINT_VC - Copy.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_03_1.rpt
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BK02.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BK02_DETAIL.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS01.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS02.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS02_A.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS02_CN.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS03.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS03_1.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS03_1_CN.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS03_2.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS04.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS05.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS06.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS07.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS08.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS09.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS09_CN.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS10.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS11.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS13.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS17.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS18.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS18_2.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS19.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS19_2.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS20.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_IBPS21.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_TTSP01.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_TTSP011.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_TTSP02.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_TTSP021.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_TTSP04.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_TTSP041.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_TTSP05.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\BM_TTSP051.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\IBPS01.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\IBPS_BM02.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_1.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_2.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_ALL.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\IBPS_PRINT_RECONCILE.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\IQS_PRINT_ALL.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\IQS_PRINT_ALL1.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\MT103.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\MT103.Designer.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_02.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_03.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_03_DC.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_03_R.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_04.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_05.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_06.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_07.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_08.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_08_DC.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_08_R.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_09.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_DC.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_FEE_CAL.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT_RECONCILE.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_PRINT_TF.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_RM.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\SWIFT_RM_R.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\TAD_PRINT.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\TTSP_PRINT_2 - Copy.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\TTSP_PRINT_21.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\TTSP_PRINT_ALL.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\TTSP_PRINT_ALL1.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\TTSP_PRINT_RECONCILE.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\TTSP_PRINT_RECONCILE1.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\TTSP_PRINT_VC - Copy.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_03.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_03_1.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_04.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_04_1.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_04_CN.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_05.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_05_1.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_07.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_08.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_09.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL_DETAIL.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_FEE_CAL_DETAIL_EXCEL.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_PRINT.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_PRINT_1.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_PRINT_2.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_PRINT_ALL.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\VCB_PRINT_RECONCILE.cs
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\App.config
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\MT103.xsc
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\MT103.xsd
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\rpt\MT103.xss
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\BRMONITOR.exe.config
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\BRMONITOR.exe.manifest
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\BRMONITOR.application
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\BRMONITOR.exe
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\BRMONITOR.pdb
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRMONITOR\obj\Debug\ResolveAssemblyReference.cache
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRMONITOR\obj\Debug\BR.BRMONITOR.frmMain.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.Properties.Resources.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRMONITOR\obj\Debug\BR.BRMONITOR.csproj.GenerateResource.Cache
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.exe.manifest
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.application
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.exe
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRMONITOR\obj\Debug\BRMONITOR.pdb

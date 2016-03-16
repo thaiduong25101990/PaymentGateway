@@ -1,0 +1,21 @@
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\OUTPUT\BRIBPSImport.exe
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\OUTPUT\BRIBPSImport.pdb
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRIBPS_Import\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRIBPS_Import\obj\Debug\GWIBPSImport.ProjectInstaller.resources
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRIBPS_Import\obj\Debug\BRIBPS_Import.csproj.GenerateResource.Cache
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRIBPS_Import\obj\Debug\BRIBPSImport.exe
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRIBPS_Import\obj\Debug\BRIBPSImport.pdb
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\OUTPUT\BRIBPSImport.exe
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\OUTPUT\BRIBPSImport.pdb
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRIBPS_Import\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRIBPS_Import\obj\Debug\GWIBPSImport.ProjectInstaller.resources
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRIBPS_Import\obj\Debug\BRIBPS_Import.csproj.GenerateResource.Cache
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRIBPS_Import\obj\Debug\BRIBPSImport.exe
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRIBPS_Import\obj\Debug\BRIBPSImport.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\OUTPUT\BRIBPSImport.exe
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\OUTPUT\BRIBPSImport.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_Import\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_Import\obj\Debug\GWIBPSImport.ProjectInstaller.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_Import\obj\Debug\BRIBPS_Import.csproj.GenerateResource.Cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_Import\obj\Debug\BRIBPSImport.exe
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_Import\obj\Debug\BRIBPSImport.pdb

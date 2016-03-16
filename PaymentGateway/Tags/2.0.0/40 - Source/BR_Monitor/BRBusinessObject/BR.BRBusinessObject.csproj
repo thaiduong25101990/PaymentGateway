@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{77688FBA-6189-446D-A986-92B8A216C2B3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BR.BRBusinessObject</RootNamespace>
+    <AssemblyName>BRBusinessObject</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\OUTPUT\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsGetData.cs" />
+    <Compile Include="clsLog.cs" />
+    <Compile Include="clsRunStore.cs" />
+    <Compile Include="ObjBesiness\BRIBPS\IBPS_BANK_MAP_BO.cs" />
+    <Compile Include="ObjBesiness\BRIBPS\IBPS_BANK_TAD_BO.cs" />
+    <Compile Include="ObjBesiness\BRIBPS\IBPS_FEE_BO.cs" />
+    <Compile Include="ObjBesiness\BRIBPS\IBPS_MSG_ALL_BO.cs" />
+    <Compile Include="ObjBesiness\BRIBPS\IBPS_MSG_LOG_BO.cs" />
+    <Compile Include="ObjBesiness\BRIBPS\IBPS_MSG_REC_TAD_BO.cs" />
+    <Compile Include="ObjBesiness\BRIBPS\IBPS_MSG_REC_TEMP_BO.cs" />
+    <Compile Include="ObjBesiness\BRIBPS\IBPS_RECONCILE_BO.cs" />
+    <Compile Include="ObjBesiness\BRIBPS\IBPS_TAD_MAP_BO.cs" />
+    <Compile Include="ObjBesiness\BRIBPS\IBPS_TRANS_MAP_BO.cs" />
+    <Compile Include="ObjBesiness\BRIBPS\TADMAP_BO.cs" />
+    <Compile Include="ObjBesiness\BRSWIFT\SWIFT_FEE_CAL_BO.cs" />
+    <Compile Include="ObjBesiness\BRSWIFT\SWIFT_PROCESS_HANDER_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\ALLCODE_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\AREA_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\BIDV_ACCOUNT_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\BKTABLE_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\BRANCH_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\CURRENCY_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\CURRENCY_CHANNEL_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\DATABASE_CLEAN_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\DEPARTMENT_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\EXCEL_BO.cs" />
+    <Compile Include="ObjBesiness\BRGROUP_USER\GROUPS_BO.cs" />
+    <Compile Include="ObjBesiness\BRGROUP_USER\GROUP_MENU_BO.cs" />
+    <Compile Include="ObjBesiness\BRGROUP_USER\GROUP_USER_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\GWBANK_MAP_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\GWMESSAGE_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\ERROR_CODE_BO.cs" />
+    <Compile Include="ObjBesiness\BRREPORT\RPTPARAMETER_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\GWTYPE_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\GWTYPE_CURRENCY_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\GWTYPE_DEPT_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\GWTYPE_DETAIL_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\GW_PARAMETER_BO.cs" />
+    <Compile Include="ObjBesiness\BRIBPS\IBPS_MSG_CONTENT_BO.cs" />
+    <Compile Include="ObjBesiness\BRIQS\IQS_CONDITION_BO.cs" />
+    <Compile Include="ObjBesiness\BRIQS\IQS_MSG_CONTENT_BO.cs" />
+    <Compile Include="ObjBesiness\BRIQS\IQS_MSG_LOSG_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\MENU_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\MRECEIVE_BRANCH_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\MSG_CONTENT_TEMP_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\MSG_DEF_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\MSG_EXCEL_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\MSG_FIELD_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\MSG_LIST_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\MSG_LOG_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\MSG_TYPE_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\GWSERVICE_PORT_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\MSG_XLS_BO.cs" />
+    <Compile Include="ObjBesiness\BRREPORT\RPTMASTER_BO.cs" />
+    <Compile Include="ObjBesiness\BRREPORT\RPTRULE_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\SEARCH_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\STATUS_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\STRANGE_CHARACTER_BO.cs" />
+    <Compile Include="ObjBesiness\BRSWIFT\SWIFT_AUTO_VALUE_BO.cs" />
+    <Compile Include="ObjBesiness\BRSWIFT\SWIFT_BANK_MAP_BO.cs" />
+    <Compile Include="ObjBesiness\BRSWIFT\SWIFT_BRANCH_ACTION_BO.cs" />
+    <Compile Include="ObjBesiness\BRSWIFT\SWIFT_BR_AUTO_BO.cs" />
+    <Compile Include="ObjBesiness\BRSWIFT\SWIFT_IWCKH_BO.cs" />
+    <Compile Include="ObjBesiness\BRSWIFT\SWIFT_MODULE_ACTION_BO.cs" />
+    <Compile Include="ObjBesiness\BRSWIFT\SWIFT_MSG_CONTENT_BO.cs" />
+    <Compile Include="ObjBesiness\BRSWIFT\SWIFT_MSG_LOG_BO.cs" />
+    <Compile Include="ObjBesiness\BRSWIFT\SWIFT_MSG_REC_SAA_BO.cs" />
+    <Compile Include="ObjBesiness\BRSWIFT\SWIFT_MSG_REC_TEMP_BO.cs" />
+    <Compile Include="ObjBesiness\BRSWIFT\SWIFT_NREC_BO.cs" />
+    <Compile Include="ObjBesiness\BRSWIFT\SWIFT_PRINT_BO.cs" />
+    <Compile Include="ObjBesiness\BRSWIFT\SWIFT_RECONCILE_BO.cs" />
+    <Compile Include="ObjBesiness\BRSWIFT\SWIFT_RMBR_AUTO_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\SYSVAR_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\TAD_BO.cs" />
+    <Compile Include="ObjBesiness\BRSYSTEM\WorkingOffDayServices.cs" />
+    <Compile Include="ObjBesiness\BRTTSP\TTSP_MAP_FIELD_BO.cs" />
+    <Compile Include="ObjBesiness\BRTTSP\TTSP_MSG_CONTENT_BO.cs" />
+    <Compile Include="ObjBesiness\BRTTSP\TTSP_MSG_LOG_BO.cs" />
+    <Compile Include="ObjBesiness\BRTTSP\TTSP_MSG_REC_TEMP_BO.cs" />
+    <Compile Include="ObjBesiness\BRTTSP\TTSP_RECONCILE_BO.cs" />
+    <Compile Include="ObjBesiness\BRGROUP_USER\USERS_BO.cs" />
+    <Compile Include="ObjBesiness\BRGROUP_USER\USER_MSG_LOG_BO.cs" />
+    <Compile Include="ObjBesiness\BRGROUP_USER\USER_PASS_BO.cs" />
+    <Compile Include="ObjBesiness\BRVCB\VCB_FEE_CAL_BO.cs" />
+    <Compile Include="ObjBesiness\BRVCB\VCB_MSG_CONTENT_BO.cs" />
+    <Compile Include="ObjBesiness\BRVCB\VCB_MSG_LOG_BO.cs" />
+    <Compile Include="ObjBesiness\BRVCB\VCB_MSG_REC_TEMP_BO.cs" />
+    <Compile Include="ObjBesiness\BRVCB\VCB_PARAMETERS_BO.cs" />
+    <Compile Include="ObjBesiness\BRVCB\VCB_RECONCILE_BO.cs" />
+    <Compile Include="ObjectInfo\BRIBPS\IBPS_FEE_Info.cs" />
+    <Compile Include="ObjectInfo\BRIBPS\IBPS_TAD_MAP_Info.cs" />
+    <Compile Include="ObjectInfo\BRIBPS\TADMAP_Info.cs" />
+    <Compile Include="ObjectInfo\BRSWIFT\SWIFT_FEE_CAL_Info.cs" />
+    <Compile Include="ObjectInfo\BRSWIFT\SWIFT_PROCESS_HANDER_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\ALLCODE_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\AREA_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\BIDV_ACCOUNT_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\BKTABLE_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\BRANCH_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\CURRENCY_CHANNEL_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\CURRENCY_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\DATABASES_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\DEPARTMENT_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\EPARTMENT_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\EXCEL_Info.cs" />
+    <Compile Include="ObjectInfo\BRGROUP_USER\GROUPS_Info.cs" />
+    <Compile Include="ObjectInfo\BRGROUP_USER\GROUP_DEPT_Info.cs" />
+    <Compile Include="ObjectInfo\BRGROUP_USER\GROUP_MENU_Info.cs" />
+    <Compile Include="ObjectInfo\BRGROUP_USER\GROUP_USER_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\GWBANK_MAP_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\GWMESSAGE_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\ERROR_CODE_Info.cs" />
+    <Compile Include="ObjectInfo\BRREPORT\RPTPARAMETER_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\GWTYPE_CURRENCY_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\GWTYPE_DEPT_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\GWTYPE_DETAIL_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\GWTYPE_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\GW_PARAMETER_Info.cs" />
+    <Compile Include="ObjectInfo\BRIBPS\IBPS_BANK_MAP_Info.cs" />
+    <Compile Include="ObjectInfo\BRIBPS\IBPS_BANK_TAD_Info.cs" />
+    <Compile Include="ObjectInfo\BRIBPS\IBPS_MSG_ALL_Info.cs" />
+    <Compile Include="ObjectInfo\BRIBPS\IBPS_MSG_CONTENT_Info.cs" />
+    <Compile Include="ObjectInfo\BRIBPS\IBPS_MSG_LOG_Info.cs" />
+    <Compile Include="ObjectInfo\BRIBPS\IBPS_MSG_REC_TAD_Info.cs" />
+    <Compile Include="ObjectInfo\BRIBPS\IBPS_MSG_REC_TEMP_Info.cs" />
+    <Compile Include="ObjectInfo\BRIBPS\IBPS_RECONCILE_Info.cs" />
+    <Compile Include="ObjectInfo\BRIBPS\IBPS_TRANS_MAP_Info.cs" />
+    <Compile Include="ObjectInfo\BRIQS\IQS_CONDITION_Info.cs" />
+    <Compile Include="ObjectInfo\BRIQS\IQS_MSG_CONTENT_Info.cs" />
+    <Compile Include="ObjectInfo\BRIQS\IQS_MSG_LOSG_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\MENU_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\MRECEIVE_BRANCH_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\MSG_CONTENT_TEMP_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\MSG_DEF_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\MSG_EXCELInfo.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\MSG_FIELD_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\MSG_LIST_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\MSG_LOG_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\MSG_TYPE_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\GWSERVICE_PORT_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\MSG_XLS_Info.cs" />
+    <Compile Include="ObjectInfo\BRREPORT\RPTMASTER_Info.cs" />
+    <Compile Include="ObjectInfo\BRREPORT\RPTRULE_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\SEARCH_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\STATUS_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\STRANGE_CHARACTER_Info.cs" />
+    <Compile Include="ObjectInfo\BRSWIFT\SWIFT_AUTO_VALUE_Info.cs" />
+    <Compile Include="ObjectInfo\BRSWIFT\SWIFT_BANK_MAP_Info.cs" />
+    <Compile Include="ObjectInfo\BRSWIFT\SWIFT_BRANCH_ACTION_Info.cs" />
+    <Compile Include="ObjectInfo\BRSWIFT\SWIFT_BR_AUTO_Info.cs" />
+    <Compile Include="ObjectInfo\BRSWIFT\SWIFT_IWCKH_Info.cs" />
+    <Compile Include="ObjectInfo\BRSWIFT\SWIFT_MODULE_ACTION_Info.cs" />
+    <Compile Include="ObjectInfo\BRSWIFT\SWIFT_MSG_CONTENT_Info.cs" />
+    <Compile Include="ObjectInfo\BRSWIFT\SWIFT_MSG_LOG_Info.cs" />
+    <Compile Include="ObjectInfo\BRSWIFT\SWIFT_RECONCILE_Info.cs" />
+    <Compile Include="ObjectInfo\BRSWIFT\SWIFT_MSG_REC_SAA_Info.cs" />
+    <Compile Include="ObjectInfo\BRSWIFT\SWIFT_MSG_REC_TEMP_Info.cs" />
+    <Compile Include="ObjectInfo\BRSWIFT\SWIFT_NREC_Info.cs" />
+    <Compile Include="ObjectInfo\BRSWIFT\SWIFT_PRINT_Info.cs" />
+    <Compile Include="ObjectInfo\BRSWIFT\SWIFT_RMBR_AUTO_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\SYSVAR_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\TAD_Info.cs" />
+    <Compile Include="ObjectInfo\BRSYSTEM\WorkingOffDay_info.cs" />
+    <Compile Include="ObjectInfo\BRTTSP\TTSP_MSG_CONTENT_Info.cs" />
+    <Compile Include="ObjectInfo\BRTTSP\TTSP_MSG_CONTENT_TEMP_Info.cs" />
+    <Compile Include="ObjectInfo\BRTTSP\TTSP_MSG_LOG_Info.cs" />
+    <Compile Include="ObjectInfo\BRTTSP\TTSP_MSG_REC_TEMP_Info.cs" />
+    <Compile Include="ObjectInfo\BRTTSP\TTSP_RECONCILE_Info.cs" />
+    <Compile Include="ObjectInfo\BRGROUP_USER\USERS_Info.cs" />
+    <Compile Include="ObjectInfo\BRGROUP_USER\USER_MSG_LOG_Info.cs" />
+    <Compile Include="ObjectInfo\BRGROUP_USER\USER_PASS_Info.cs" />
+    <Compile Include="ObjectInfo\BRVCB\VCB_FEE_CAL_Info.cs" />
+    <Compile Include="ObjectInfo\BRVCB\VCB_MSG_CONTENT_Info.cs" />
+    <Compile Include="ObjectInfo\BRVCB\VCB_MSG_LOG_Info.cs" />
+    <Compile Include="ObjectInfo\BRVCB\VCB_MSG_REC_TEMP_Info.cs" />
+    <Compile Include="ObjectInfo\BRVCB\VCB_PARAMETERS_Info.cs" />
+    <Compile Include="ObjectInfo\BRVCB\VCB_RECONCILE_Info.cs" />
+    <Compile Include="ObjectProcess\BRIBPS\IBPS_FEE_DAO.cs" />
+    <Compile Include="ObjectProcess\BRIBPS\IBPS_TAD_MAP_DAO.cs" />
+    <Compile Include="ObjectProcess\BRIBPS\TADMAP_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSWIFT\SWIFT_FEE_CAL_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSWIFT\SWIFT_PROCESS_HANDER_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\ALLCODE_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\AREA_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\BIDV_ACCOUNT_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\BKTABLE_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\BRANCH_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\CURRENCY_CHANNEL_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\CURRENCY_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\DATABASE_CLEAN_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\DEPARTMENT_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\EXCEL_DAO.cs" />
+    <Compile Include="ObjectProcess\BRGROUP_USER\GROUPS_DAO.cs" />
+    <Compile Include="ObjectProcess\BRGROUP_USER\GROUP_MENU_DAO.cs" />
+    <Compile Include="ObjectProcess\BRGROUP_USER\GROUP_USER_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\GWBANK_MAP_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\GWMESSAGE_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\ERROR_CODE_DAO.cs" />
+    <Compile Include="ObjectProcess\BRREPORT\RPTPARAMETER_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\GWTYPE_CURRENCY_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\GWTYPE_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\GWTYPE_DEPT_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\GWTYPE_DETAIL_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\GW_PARAMETER_DAO.cs" />
+    <Compile Include="ObjectProcess\BRIBPS\IBPS_BANK_MAP_DAO.cs" />
+    <Compile Include="ObjectProcess\BRIBPS\IBPS_BANK_TAD_DAO.cs" />
+    <Compile Include="ObjectProcess\BRIBPS\IBPS_MSG_ALL_DAO.cs" />
+    <Compile Include="ObjectProcess\BRIBPS\IBPS_MSG_CONTENT_DAO.cs" />
+    <Compile Include="ObjectProcess\BRIBPS\IBPS_MSG_LOG_DAO.cs" />
+    <Compile Include="ObjectProcess\BRIBPS\IBPS_MSG_REC_TAD_DAO.cs" />
+    <Compile Include="ObjectProcess\BRIBPS\IBPS_MSG_REC_TEMP_DAO.cs" />
+    <Compile Include="ObjectProcess\BRIBPS\IBPS_RECONCILE_DAO.cs" />
+    <Compile Include="ObjectProcess\BRIBPS\IBPS_TRANS_MAP_DAO.cs" />
+    <Compile Include="ObjectProcess\BRIQS\IQS_CONDITION_DAO.cs" />
+    <Compile Include="ObjectProcess\BRIQS\IQS_MSG_CONTENT_DAO.cs" />
+    <Compile Include="ObjectProcess\BRIQS\IQS_MSG_LOG_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\MENU_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\MRECEIVE_BRANCH_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\MSG_CONTENT_TEMP_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\MSG_DEF_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\MSG_EXCEL_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\MSG_FIELD_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\MSG_LIST_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\MSG_LOG_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\MSG_TYPE_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\GWSERVICE_PORT_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\MSG_XLS_DAO.cs" />
+    <Compile Include="ObjectProcess\BRREPORT\RPTMASTER_DAO.cs" />
+    <Compile Include="ObjectProcess\BRREPORT\RPTRULE_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\SEARCH_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\STATUS_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\STRANGE_CHARACTER_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSWIFT\SWIFT_AUTO_VALUE_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSWIFT\SWIFT_BANK_MAP_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSWIFT\SWIFT_BRANCH_ACTION_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSWIFT\SWIFT_BR_AUTO_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSWIFT\SWIFT_IWCKH_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSWIFT\SWIFT_MODULE_ACTION_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSWIFT\SWIFT_MSG_CONTENT_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSWIFT\SWIFT_MSG_LOG_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSWIFT\SWIFT_MSG_REC_SAA_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSWIFT\SWIFT_MSG_REC_TEMP_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSWIFT\SWIFT_NREC_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSWIFT\SWIFT_PRINT_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSWIFT\SWIFT_RECONCILE_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSWIFT\SWIFT_RMBR_AUTO_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\SYSVAR_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\TAD_DAO.cs" />
+    <Compile Include="ObjectProcess\BRSYSTEM\WorkingOffDay_Dao.cs" />
+    <Compile Include="ObjectProcess\BRTTSP\TTSP_MAP_FIELD_DAO.cs" />
+    <Compile Include="ObjectProcess\BRTTSP\TTSP_MSG_CONTENT_DAO.cs" />
+    <Compile Include="ObjectProcess\BRTTSP\TTSP_MSG_LOG_DAO.cs" />
+    <Compile Include="ObjectProcess\BRTTSP\TTSP_MSG_REC_TEMP_DAO.cs" />
+    <Compile Include="ObjectProcess\BRTTSP\TTSP_RECONCILE_DAO.cs" />
+    <Compile Include="ObjectProcess\BRGROUP_USER\USERS_DAO.cs" />
+    <Compile Include="ObjectProcess\BRGROUP_USER\USER_MSG_LOG_DAO.cs" />
+    <Compile Include="ObjectProcess\BRGROUP_USER\USER_PASS_DAO.cs" />
+    <Compile Include="ObjectProcess\BRVCB\VCB_FEE_CAL_DAO.cs" />
+    <Compile Include="ObjectProcess\BRVCB\VCB_MSG_CONTENT_DAO.cs" />
+    <Compile Include="ObjectProcess\BRVCB\VCB_MSG_LOG_DAO.cs" />
+    <Compile Include="ObjectProcess\BRVCB\VCB_MSG_REC_TEMP_DAO.cs" />
+    <Compile Include="ObjectProcess\BRVCB\VCB_PARAMETERS_DAO.cs" />
+    <Compile Include="ObjectProcess\BRVCB\VCB_RECONCILE_DAO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BRDataAccess\BR.DataAccess.csproj">
+      <Project>{8138B4C5-AC22-4ECF-8DF6-395A976CBD07}</Project>
+      <Name>BR.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BRLib\BR.BRLib.csproj">
+      <Project>{F8099B06-8A6B-4084-9E0D-5F7ECDC9EB5F}</Project>
+      <Name>BR.BRLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

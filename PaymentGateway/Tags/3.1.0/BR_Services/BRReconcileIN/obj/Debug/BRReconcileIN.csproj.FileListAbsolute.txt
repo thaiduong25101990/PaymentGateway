@@ -1,0 +1,21 @@
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRReconcileIN\bin\Debug\BRReconcileIN.exe
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRReconcileIN\bin\Debug\BRReconcileIN.pdb
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRReconcileIN\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRReconcileIN\obj\Debug\BRReconcileIN.ProjectInstaller.resources
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRReconcileIN\obj\Debug\BRReconcileIN.csproj.GenerateResource.Cache
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRReconcileIN\obj\Debug\BRReconcileIN.exe
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRReconcileIN\obj\Debug\BRReconcileIN.pdb
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\OUTPUT\BRReconcileIN.exe
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\OUTPUT\BRReconcileIN.pdb
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRReconcileIN\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRReconcileIN\obj\Debug\BRReconcileIN.ProjectInstaller.resources
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRReconcileIN\obj\Debug\BRReconcileIN.csproj.GenerateResource.Cache
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRReconcileIN\obj\Debug\BRReconcileIN.exe
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRReconcileIN\obj\Debug\BRReconcileIN.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\OUTPUT\BRReconcileIN.exe
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\OUTPUT\BRReconcileIN.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRReconcileIN\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRReconcileIN\obj\Debug\BRReconcileIN.ProjectInstaller.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRReconcileIN\obj\Debug\BRReconcileIN.csproj.GenerateResource.Cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRReconcileIN\obj\Debug\BRReconcileIN.exe
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRReconcileIN\obj\Debug\BRReconcileIN.pdb

@@ -1,0 +1,15 @@
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRTTSB.dll
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRTTSB.pdb
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmCheckMsg.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmDayDuplicate.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmIQSList.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmIQSNew1.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmIQSNew2.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmSelectTypeIQS.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmTTSPMsgInfo.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmTTSPMsgList.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmTTSPRec.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.csproj.GenerateResource.Cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BRTTSB.dll
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BRTTSB.pdb

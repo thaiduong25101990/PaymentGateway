@@ -1,0 +1,25 @@
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRLib.dll
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRLib\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRLib\obj\Debug\BRLib.dll
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRLib\obj\Debug\BRLib.pdb
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRLib.pdb
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRLib.dll
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRLib.pdb
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRLib\obj\Debug\BRLib.dll
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRLib\obj\Debug\BRLib.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRLib.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRLib.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRLib\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRLib\obj\Debug\BRLib.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRLib\obj\Debug\BRLib.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\BRLib.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\BRLib.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRLib\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRLib\obj\Debug\BRLib.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRLib\obj\Debug\BRLib.pdb
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\BRLib.dll
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\BRLib.pdb
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRLib\obj\Debug\ResolveAssemblyReference.cache
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRLib\obj\Debug\BRLib.dll
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRLib\obj\Debug\BRLib.pdb

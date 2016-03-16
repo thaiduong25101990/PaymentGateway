@@ -1,0 +1,36 @@
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\Encrypt_Folder\bin\Debug\Demo_Encrypt.exe
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\Encrypt_Folder\bin\Debug\Demo_Encrypt.pdb
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\Encrypt_Folder\bin\Debug\SecurityDecrypt.dll
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\Encrypt_Folder\bin\Debug\SecurityEncrypt.dll
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\Encrypt_Folder\bin\Debug\SecurityEncrypt.pdb
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\Encrypt_Folder\bin\Debug\SecurityDecrypt.pdb
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\Encrypt_Folder\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\Encrypt_Folder\obj\Debug\Demo_Encrypt.Form1.resources
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\Encrypt_Folder\obj\Debug\Demo_Encrypt.Properties.Resources.resources
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\Encrypt_Folder\obj\Debug\Demo_Encrypt.csproj.GenerateResource.Cache
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\Encrypt_Folder\obj\Debug\Demo_Encrypt.exe
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\Encrypt_Folder\obj\Debug\Demo_Encrypt.pdb
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\Encrypt_Folder\bin\Debug\Demo_Encrypt.exe
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\Encrypt_Folder\bin\Debug\Demo_Encrypt.pdb
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\Encrypt_Folder\bin\Debug\SecurityDecrypt.dll
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\Encrypt_Folder\bin\Debug\SecurityEncrypt.dll
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\Encrypt_Folder\bin\Debug\SecurityEncrypt.pdb
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\Encrypt_Folder\bin\Debug\SecurityDecrypt.pdb
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\Encrypt_Folder\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\Encrypt_Folder\obj\Debug\Demo_Encrypt.Form1.resources
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\Encrypt_Folder\obj\Debug\Demo_Encrypt.Properties.Resources.resources
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\Encrypt_Folder\obj\Debug\Demo_Encrypt.csproj.GenerateResource.Cache
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\Encrypt_Folder\obj\Debug\Demo_Encrypt.exe
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\Encrypt_Folder\obj\Debug\Demo_Encrypt.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\Encrypt_Folder\bin\Debug\Demo_Encrypt.exe
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\Encrypt_Folder\bin\Debug\Demo_Encrypt.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\Encrypt_Folder\bin\Debug\SecurityDecrypt.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\Encrypt_Folder\bin\Debug\SecurityEncrypt.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\Encrypt_Folder\bin\Debug\SecurityEncrypt.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\Encrypt_Folder\bin\Debug\SecurityDecrypt.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\Encrypt_Folder\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\Encrypt_Folder\obj\Debug\Demo_Encrypt.Form1.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\Encrypt_Folder\obj\Debug\Demo_Encrypt.Properties.Resources.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\Encrypt_Folder\obj\Debug\Demo_Encrypt.csproj.GenerateResource.Cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\Encrypt_Folder\obj\Debug\Demo_Encrypt.exe
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\Encrypt_Folder\obj\Debug\Demo_Encrypt.pdb

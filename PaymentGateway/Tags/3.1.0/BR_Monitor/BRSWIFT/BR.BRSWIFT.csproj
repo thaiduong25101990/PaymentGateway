@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8390BBA2-4FAB-49BE-8242-E1D65F42A20B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BR.BRSWIFT</RootNamespace>
+    <AssemblyName>BRSWIFT</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\OUTPUT\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Approve_manual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Approve_manual.Designer.cs">
+      <DependentUpon>Approve_manual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\clsDatagridviews.cs" />
+    <Compile Include="Class\clsStatus.cs" />
+    <Compile Include="frmImpfiletext.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImpfiletext.designer.cs">
+      <DependentUpon>frmImpfiletext.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMessageImportError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMessageImportError.Designer.cs">
+      <DependentUpon>frmMessageImportError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSWIFTBankMap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSWIFTBankMap.designer.cs">
+      <DependentUpon>frmSWIFTBankMap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSwiftEditBrAuto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwiftEditBrAuto.Designer.cs">
+      <DependentUpon>frmSwiftEditBrAuto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSwiftEditMdlAuto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwiftEditMdlAuto.Designer.cs">
+      <DependentUpon>frmSwiftEditMdlAuto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSwiftEditMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwiftEditMessage.Designer.cs">
+      <DependentUpon>frmSwiftEditMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSWIFTFeeCal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSWIFTFeeCal.designer.cs">
+      <DependentUpon>frmSWIFTFeeCal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSwiftImp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwiftINMsgManual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwiftINMsgManual.Designer.cs">
+      <DependentUpon>frmSwiftINMsgManual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSwiftMsgInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwiftMsgInfo.Designer.cs">
+      <DependentUpon>frmSwiftMsgInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSwiftMsgList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwiftMsgList.Designer.cs">
+      <DependentUpon>frmSwiftMsgList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSwiftMsgManual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwiftMsgManual.Designer.cs">
+      <DependentUpon>frmSwiftMsgManual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSwiftMsgManualDup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwiftMsgManualDup.Designer.cs">
+      <DependentUpon>frmSwiftMsgManualDup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSwiftMsgManualEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwiftMsgManualEdit.designer.cs">
+      <DependentUpon>frmSwiftMsgManualEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSwiftMsgManualInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwiftMsgManualInfo.Designer.cs">
+      <DependentUpon>frmSwiftMsgManualInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSwiftRec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwiftRec.Designer.cs">
+      <DependentUpon>frmSwiftRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSwiftResend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwiftResend.designer.cs">
+      <DependentUpon>frmSwiftResend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSwiftResendInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwiftResendInfo.designer.cs">
+      <DependentUpon>frmSwiftResendInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSwiftStatement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwiftStatement.Designer.cs">
+      <DependentUpon>frmSwiftStatement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSWIWAutoValue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSWIWAutoValue.Designer.cs">
+      <DependentUpon>frmSWIWAutoValue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSWIWBrAuto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSWIWBrAuto.Designer.cs">
+      <DependentUpon>frmSWIWBrAuto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSWIWChk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSWIWChk.Designer.cs">
+      <DependentUpon>frmSWIWChk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSWIWConditionBr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSWIWConditionBr.Designer.cs">
+      <DependentUpon>frmSWIWConditionBr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSWIWConditionMdl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSWIWConditionMdl.Designer.cs">
+      <DependentUpon>frmSWIWConditionMdl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSWIWModulAuto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSWIWModulAuto.Designer.cs">
+      <DependentUpon>frmSWIWModulAuto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSWIWValueMdl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSWIWValueMdl.Designer.cs">
+      <DependentUpon>frmSWIWValueMdl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSwNoRec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwNoRec.Designer.cs">
+      <DependentUpon>frmSwNoRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSWRMBrAuto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSWRMBrAuto.Designer.cs">
+      <DependentUpon>frmSWRMBrAuto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewSwiftBankName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewSwiftBankName.Designer.cs">
+      <DependentUpon>frmViewSwiftBankName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Reconcile\clsSWIFT_MSG_REC.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Approve_manual.resx">
+      <DependentUpon>Approve_manual.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImpfiletext.resx">
+      <DependentUpon>frmImpfiletext.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMessageImportError.resx">
+      <DependentUpon>frmMessageImportError.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSWIFTBankMap.resx">
+      <DependentUpon>frmSWIFTBankMap.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwiftEditBrAuto.resx">
+      <DependentUpon>frmSwiftEditBrAuto.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwiftEditMdlAuto.resx">
+      <DependentUpon>frmSwiftEditMdlAuto.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwiftEditMessage.resx">
+      <DependentUpon>frmSwiftEditMessage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSWIFTFeeCal.resx">
+      <DependentUpon>frmSWIFTFeeCal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwiftImp.resx">
+      <DependentUpon>frmSwiftImp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwiftINMsgManual.resx">
+      <DependentUpon>frmSwiftINMsgManual.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwiftMsgInfo.resx">
+      <DependentUpon>frmSwiftMsgInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwiftMsgList.resx">
+      <DependentUpon>frmSwiftMsgList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwiftMsgManual.resx">
+      <DependentUpon>frmSwiftMsgManual.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwiftMsgManualDup.resx">
+      <DependentUpon>frmSwiftMsgManualDup.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwiftMsgManualEdit.resx">
+      <DependentUpon>frmSwiftMsgManualEdit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwiftMsgManualInfo.resx">
+      <DependentUpon>frmSwiftMsgManualInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwiftRec.resx">
+      <DependentUpon>frmSwiftRec.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwiftResend.resx">
+      <DependentUpon>frmSwiftResend.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwiftResendInfo.resx">
+      <DependentUpon>frmSwiftResendInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwiftStatement.resx">
+      <DependentUpon>frmSwiftStatement.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSWIWAutoValue.resx">
+      <DependentUpon>frmSWIWAutoValue.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSWIWBrAuto.resx">
+      <DependentUpon>frmSWIWBrAuto.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSWIWChk.resx">
+      <DependentUpon>frmSWIWChk.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSWIWConditionBr.resx">
+      <DependentUpon>frmSWIWConditionBr.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSWIWConditionMdl.resx">
+      <DependentUpon>frmSWIWConditionMdl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSWIWModulAuto.resx">
+      <DependentUpon>frmSWIWModulAuto.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSWIWValueMdl.resx">
+      <DependentUpon>frmSWIWValueMdl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwNoRec.resx">
+      <DependentUpon>frmSwNoRec.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSWRMBrAuto.resx">
+      <DependentUpon>frmSWRMBrAuto.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewSwiftBankName.resx">
+      <DependentUpon>frmViewSwiftBankName.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BRBusinessObject\BR.BRBusinessObject.csproj">
+      <Project>{77688FBA-6189-446D-A986-92B8A216C2B3}</Project>
+      <Name>BR.BRBusinessObject</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BRLib\BR.BRLib.csproj">
+      <Project>{F8099B06-8A6B-4084-9E0D-5F7ECDC9EB5F}</Project>
+      <Name>BR.BRLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BRSYSTEM\BR.BRSYSTEM.csproj">
+      <Project>{C3B814DD-46CD-41B6-8F14-5B5EA8C410E9}</Project>
+      <Name>BR.BRSYSTEM</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

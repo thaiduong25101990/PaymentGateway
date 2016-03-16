@@ -1,0 +1,26 @@
+D:\MSB_SOURCE_BRIDGE\BR_Services\BRIBPS_TRInquiry\bin\Release\BRSWIFT_TR_Inquiry.exe
+D:\MSB_SOURCE_BRIDGE\BR_Services\BRIBPS_TRInquiry\bin\Release\BRSWIFT_TR_Inquiry.pdb
+D:\MSB_SOURCE_BRIDGE\BR_Services\OUTPUT\BRIBPS_TR_Inquiry.exe
+D:\MSB_SOURCE_BRIDGE\BR_Services\OUTPUT\BRIBPS_TR_Inquiry.pdb
+D:\MSB_SOURCE_BRIDGE\BR_Services\BRIBPS_TRInquiry\obj\Release\ResolveAssemblyReference.cache
+D:\MSB_SOURCE_BRIDGE\BR_Services\BRIBPS_TRInquiry\obj\Release\BRIBPS_TR_Inquiry.ProjectInstaller.resources
+D:\MSB_SOURCE_BRIDGE\BR_Services\BRIBPS_TRInquiry\obj\Release\BRIBPS_TR_Inquiry.IBPSTR_Inquiry.resources
+D:\MSB_SOURCE_BRIDGE\BR_Services\BRIBPS_TRInquiry\obj\Release\BRIBPS_TR_Inquiry.csproj.GenerateResource.Cache
+D:\MSB_SOURCE_BRIDGE\BR_Services\BRIBPS_TRInquiry\obj\Release\BRIBPS_TR_Inquiry.exe
+D:\MSB_SOURCE_BRIDGE\BR_Services\BRIBPS_TRInquiry\obj\Release\BRIBPS_TR_Inquiry.pdb
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\OUTPUT\BRIBPS_TR_Inquiry.exe
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\OUTPUT\BRIBPS_TR_Inquiry.pdb
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_TRInquiry\obj\Release\ResolveAssemblyReference.cache
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_TRInquiry\obj\Release\BRIBPS_TR_Inquiry.ProjectInstaller.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_TRInquiry\obj\Release\BRIBPS_TR_Inquiry.IBPSTR_Inquiry.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_TRInquiry\obj\Release\BRIBPS_TR_Inquiry.csproj.GenerateResource.Cache
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_TRInquiry\obj\Release\BRIBPS_TR_Inquiry.exe
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_TRInquiry\obj\Release\BRIBPS_TR_Inquiry.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\OUTPUT\BRIBPS_TR_Inquiry.exe
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\OUTPUT\BRIBPS_TR_Inquiry.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_TRInquiry\obj\Release\ResolveAssemblyReference.cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_TRInquiry\obj\Release\BRIBPS_TR_Inquiry.ProjectInstaller.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_TRInquiry\obj\Release\BRIBPS_TR_Inquiry.IBPSTR_Inquiry.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_TRInquiry\obj\Release\BRIBPS_TR_Inquiry.csproj.GenerateResource.Cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_TRInquiry\obj\Release\BRIBPS_TR_Inquiry.exe
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Services\BRIBPS_TRInquiry\obj\Release\BRIBPS_TR_Inquiry.pdb

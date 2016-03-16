@@ -1,0 +1,2 @@
+insert into IBPS_TAD_MAP (BANK_CODE, TAD_CODE, UPDATETIME, NOTE, BANK_NAME, GW_BANK_CODE)
+values ('204', '00011', to_date('06-06-2013 10:02:48', 'dd-mm-yyyy hh24:mi:ss'), null, 'NH NN&PTNT ', '01302001');

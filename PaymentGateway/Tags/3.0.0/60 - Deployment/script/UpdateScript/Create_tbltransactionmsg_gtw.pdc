@@ -1,0 +1,176 @@
+-- Create sequence 
+create sequence SEQ_TRAN_GTW
+minvalue 1
+maxvalue 999999999999999999999
+start with 14901
+increment by 1
+cache 20
+cycle
+order;
+
+-- Create table
+create table TBLTRANSACTIONMSG_GTW
+(
+  check_code              VARCHAR2(2),
+  create_file_result_flag VARCHAR2(1),
+  file_name_result        VARCHAR2(25),
+  trx_type                VARCHAR2(6),
+  err_status              VARCHAR2(4),
+  sd_time                 VARCHAR2(14),
+  response_code           VARCHAR2(4),
+  serial_no               VARCHAR2(8),
+  o_ci_code               VARCHAR2(12) not null,
+  r_ci_code               VARCHAR2(12),
+  o_indirect_code         VARCHAR2(12),
+  r_indirect_code         VARCHAR2(12),
+  fee_ci_code             VARCHAR2(12),
+  trx_date                VARCHAR2(8) not null,
+  balance_time            VARCHAR2(14),
+  currency                VARCHAR2(3),
+  amount                  VARCHAR2(22),
+  sd_name                 VARCHAR2(100),
+  sd_addr                 VARCHAR2(100),
+  sd_accnt                VARCHAR2(25),
+  rv_name                 VARCHAR2(100),
+  rv_addr                 VARCHAR2(100),
+  rv_accnt                VARCHAR2(25),
+  content                 VARCHAR2(300),
+  opert1                  VARCHAR2(2),
+  opert2                  VARCHAR2(3),
+  file_name               VARCHAR2(25),
+  relation_no             VARCHAR2(40) not null,
+  sd_identify             VARCHAR2(25),
+  rv_identify             VARCHAR2(25),
+  authorized              VARCHAR2(1),
+  fee_flag                VARCHAR2(1),
+  reference               VARCHAR2(100),
+  tax_code                VARCHAR2(30),
+  sd_code                 VARCHAR2(20),
+  rv_code                 VARCHAR2(20),
+  ex_e_sign               VARCHAR2(200),
+  msg_reason              VARCHAR2(210),
+  orig_id                 VARCHAR2(16),
+  confirm_id              VARCHAR2(16),
+  appr_id                 VARCHAR2(16),
+  create_time             VARCHAR2(14),
+  appr_time               VARCHAR2(14),
+  mac                     VARCHAR2(28),
+  type_flag               CHAR(1) not null,
+  e_sign                  VARCHAR2(200),
+  optioncode              VARCHAR2(30),
+  contentfromfile         VARCHAR2(4000),
+  err_msg                 VARCHAR2(200),
+  lineposition            NUMBER(17),
+  fileprocessingtime      VARCHAR2(14),
+  content_ex              VARCHAR2(3000),
+  gw_status               NUMBER(2),
+  gw_direction            VARCHAR2(2),
+  gw_org_account          VARCHAR2(30),
+  gw_note                 VARCHAR2(30),
+  msg_id                  NUMBER(20),
+  query_id                NUMBER(20),
+  gw_id                   NUMBER(20)
+)
+tablespace USERS
+  pctfree 10
+  initrans 1
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    minextents 1
+    maxextents unlimited
+  );
+-- Create/Recreate indexes 
+create index TBLTRANSACTIONMSG_GTW_IDX_1 on TBLTRANSACTIONMSG_GTW (CHECK_CODE, TYPE_FLAG, CREATE_FILE_RESULT_FLAG, TRX_DATE)
+  tablespace USERS
+  pctfree 10
+  initrans 2
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    minextents 1
+    maxextents unlimited
+  );
+create index TBLTRANSACTIONMSG_GTW_IDX_2 on TBLTRANSACTIONMSG_GTW (TRX_DATE, CHECK_CODE, TYPE_FLAG, CREATE_FILE_RESULT_FLAG, TRX_TYPE)
+  tablespace USERS
+  pctfree 10
+  initrans 2
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    minextents 1
+    maxextents unlimited
+  );
+create index TBL_TRANSACTIONMSG_GTW_IN3 on TBLTRANSACTIONMSG_GTW (MSG_ID)
+  tablespace USERS
+  pctfree 10
+  initrans 2
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    minextents 1
+    maxextents unlimited
+  );
+create index TBL_TRANSACTIONMSG_GTW_IN4 on TBLTRANSACTIONMSG_GTW (QUERY_ID)
+  tablespace USERS
+  pctfree 10
+  initrans 2
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    minextents 1
+    maxextents unlimited
+  );
+-- Create/Recreate primary, unique and foreign key constraints 
+alter table TBLTRANSACTIONMSG_GTW
+  add constraint TBLTRANSACTIONMSG_GTW_PK primary key (O_CI_CODE, TRX_DATE, RELATION_NO, TYPE_FLAG)
+  using index 
+  tablespace USERS
+  pctfree 10
+  initrans 2
+  maxtrans 255
+  storage
+  (
+    initial 145M
+    minextents 1
+    maxextents unlimited
+  );
+alter table TBLTRANSACTIONMSG_GTW
+  add constraint TBLTRANSACTIONMSG_UK unique (GW_ID)
+  using index 
+  tablespace USERS
+  pctfree 10
+  initrans 2
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    minextents 1
+    maxextents unlimited
+  );
+-- Grant/Revoke object privileges 
+grant select on TBLTRANSACTIONMSG_GTW to GWREAD;
+
+
+
+create or replace trigger BEFORE_INSERT_TRAN_GW
+  before insert on tbltransactionmsg_gtw
+  for each row
+declare
+  -- local variables here
+begin
+  if :new.check_code = '05' then
+    :new.gw_status    := 0;
+    :new.gw_direction := 'I';
+    :new.gw_org_account:=:old.rv_accnt;
+  else
+    :new.gw_status    := 0;
+    :new.gw_direction := 'O';
+  end if;
+  select SEQ_TRAN_GTW.NEXTVAL into :new.gw_id from dual;
+end BEFORE_INSERT_TRAN_GW;

@@ -1,0 +1,9 @@
+BEGIN
+  DBMS_SCHEDULER.CREATE_JOB (
+     job_name           => 'IBPS_GET_TRANSREF040',     
+     job_type           => 'PLSQL_BLOCK',
+     job_action         => 'BEGIN GW_PK_IBPS_UPDATE_TRANSREF.GET_IBPS_TRANS_REF; end;',
+     repeat_interval    => 'FREQ=MINUTELY; Interval=15',
+     enabled            => TRUE
+  );
+END;

@@ -1,0 +1,190 @@
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRSYSTEM.dll
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.About.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmBackupData.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmBackupDB.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmHistory.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmMenu.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmMSGList.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmReportType.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmArea.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmBasedata.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmBasesdataFrame.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmBranch.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmBranchInfo.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmCCYCD_Channel.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmCCYCD.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmCCYCDInfo.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmCleanData.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmJobLog.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmJobStatus.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmMenegerReport.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmMSGDef.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmParam.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmPrint.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmQueueStatus.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmReport.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmReportList.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmReportPara.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmRepostRule.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmServiceLog.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmServiceStatus.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmStrangeChar.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmUserLog.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmVCBNostroAcc.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmViewLogInfo.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmKeyCode.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.OSProgress.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.PleaseWait.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.Technique.frmProcess.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmGroup_Menu.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmGWBANK_MAP.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmGWTYPE.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmGWTypeInfo.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmLogin.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmMsgExcel.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmRestoreData.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmRestoreDB.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmSelectGWType.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmSIBSPort.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmStrangeCharInfo.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmSysvar.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmTransferData.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmResetPass.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmUser.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmWelcome.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.Properties.Resources.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frgUser_group.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmGroup_User.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmChangepass.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.csproj.GenerateResource.Cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BRSYSTEM.dll
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BRSYSTEM.pdb
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRSYSTEM.pdb
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRSYSTEM.dll
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRSYSTEM.pdb
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.About.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmBackupData.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmBackupDB.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmHistory.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmMenu.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmMSGList.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmReportType.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmArea.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmBasedata.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmBasesdataFrame.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmBranch.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmBranchInfo.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmCCYCD_Channel.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmCCYCD.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmCCYCDInfo.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmCleanData.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmJobLog.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmJobStatus.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmMenegerReport.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmMSGDef.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmParam.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmPrint.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmQueueStatus.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmReport.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmReportList.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmReportPara.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmRepostRule.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmServiceLog.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmServiceStatus.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmStrangeChar.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmUserLog.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmVCBNostroAcc.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmViewLogInfo.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmKeyCode.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.OSProgress.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.PleaseWait.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.Technique.frmProcess.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmGroup_Menu.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmGWBANK_MAP.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmGWTYPE.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmGWTypeInfo.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmLogin.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmMsgExcel.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmRestoreData.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmRestoreDB.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmSelectGWType.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmSIBSPort.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmStrangeCharInfo.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmSysvar.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmTransferData.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmResetPass.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmUser.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmWelcome.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.Properties.Resources.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frgUser_group.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmGroup_User.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmChangepass.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.csproj.GenerateResource.Cache
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BRSYSTEM.dll
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BRSYSTEM.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRSYSTEM.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRSYSTEM.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.About.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmBackupData.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmBackupDB.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmHistory.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmMenu.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmMSGList.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmReportType.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmArea.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmBasedata.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmBasesdataFrame.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmBranch.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmBranchInfo.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmCCYCD_Channel.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmCCYCD.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmCCYCDInfo.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmCleanData.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmJobLog.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmJobStatus.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmMenegerReport.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmMSGDef.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmParam.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmPrint.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmQueueStatus.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmReport.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmReportList.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmReportPara.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmRepostRule.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmServiceLog.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmServiceStatus.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmStrangeChar.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmUserLog.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmVCBNostroAcc.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmViewLogInfo.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmKeyCode.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.OSProgress.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.PleaseWait.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.Technique.frmProcess.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmGroup_Menu.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmGWBANK_MAP.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmGWTYPE.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmGWTypeInfo.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmLogin.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmMsgExcel.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmRestoreData.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmRestoreDB.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmSelectGWType.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmSIBSPort.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmStrangeCharInfo.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmSysvar.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmTransferData.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmResetPass.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmUser.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmWelcome.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.Properties.Resources.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frgUser_group.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmGroup_User.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.frmChangepass.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.csproj.GenerateResource.Cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BRSYSTEM.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BRSYSTEM.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSYSTEM\obj\Debug\BR.BRSYSTEM.Parameters.frmWorkingOffDay.resources

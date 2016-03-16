@@ -1,0 +1,948 @@
+﻿<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E05436E0-A0E1-4061-9EE0-57587862ADF4}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BIDVWEB.BIDV_UC</RootNamespace>
+    <AssemblyName>BIDVWEB.BIDV_UC</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Web, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\CrystalDecisions.Web\10.5.3700.0__692fbea5521e1304\CrystalDecisions.Web.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Css\Stylesheet.css" />
+    <Content Include="Images\bgmenutop.jpg" />
+    <Content Include="Images\topbanner01.jpg" />
+    <Content Include="Images\topbanner02.jpg" />
+    <Content Include="Images\topbanner03.jpg" />
+    <Content Include="Images\topbanner04.gif" />
+    <Content Include="Images\topbanner05.jpg" />
+    <Content Include="Images\topbanner06.gif" />
+    <Content Include="Images\topbanner07.gif" />
+    <Content Include="UserControl\MainMenu.ascx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\Main.aspx.cs">
+      <DependentUpon>Main.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Common\Main.aspx.designer.cs">
+      <DependentUpon>Main.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Module\Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="ReportCrystal\BM_IBPS01.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BM_IBPS01.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\BM_IBPS02.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BM_IBPS02.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\BM_IBPS02_CN.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BM_IBPS02_CN.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\BM_IBPS03_1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BM_IBPS03_1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\BM_IBPS03_1_CN.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BM_IBPS03_1_CN.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\BM_IBPS03_2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BM_IBPS03_2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\BM_IBPS04.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BM_IBPS04.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\BM_IBPS05.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BM_IBPS05.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\BM_IBPS06.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BM_IBPS06.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\BM_IBPS07.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BM_IBPS07.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\BM_IBPS08.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BM_IBPS08.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\BM_IBPS09.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BM_IBPS09.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\BM_IBPS09_CN.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BM_IBPS09_CN.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\BM_IBPS10.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BM_IBPS10.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\BM_TTSP01.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BM_TTSP01.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\GW_TS.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GW_TS.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\IBPS_BM01.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IBPS_BM01.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\IBPS_BM02.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IBPS_BM02.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\IBPS_BM03.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IBPS_BM03.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\IBPS_BM04.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IBPS_BM04.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\IBPS_BM05.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IBPS_BM05.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\IBPS_BM06.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IBPS_BM06.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\IBPS_BM07.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IBPS_BM07.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\IBPS_BM08.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IBPS_BM08.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\IBPS_PRINT_1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IBPS_PRINT_1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\IBPS_PRINT_2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IBPS_PRINT_2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\SWIFT_02.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SWIFT_02.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\SWIFT_03.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SWIFT_03.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\SWIFT_03_DC.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SWIFT_03_DC.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\SWIFT_04.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SWIFT_04.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\SWIFT_05.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SWIFT_05.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\SWIFT_06.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SWIFT_06.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\SWIFT_07.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SWIFT_07.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\SWIFT_08.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SWIFT_08.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\SWIFT_08_DC.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SWIFT_08_DC.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\SWIFT_PRINT.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SWIFT_PRINT.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\SWIFT_PRINT_TF.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SWIFT_PRINT_TF.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\VCB_03.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VCB_03.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\VCB_04.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VCB_04.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\VCB_04_1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VCB_04_1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\VCB_04_CN.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VCB_04_CN.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\VCB_05.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VCB_05.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\VCB_BM02.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VCB_BM02.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\VCB_BM03.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VCB_BM03.rpt</DependentUpon>
+    </Compile>
+    <Compile Include="ReportCrystal\VCB_BM04.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VCB_BM04.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\VCB_PRINT.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VCB_PRINT.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\VCB_PRINT_1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VCB_PRINT_1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportCrystal\VCB_PRINT_2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VCB_PRINT_2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmIBPS_TS.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>WfrmIBPS_TS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmIBPS_TS.aspx.designer.cs">
+      <DependentUpon>WfrmIBPS_TS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmSearchIBPS.aspx.cs">
+      <DependentUpon>WfrmSearchIBPS.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmSearchIBPS.aspx.designer.cs">
+      <DependentUpon>WfrmSearchIBPS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmSearchSwift.aspx.cs">
+      <DependentUpon>WfrmSearchSwift.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmSearchSwift.aspx.designer.cs">
+      <DependentUpon>WfrmSearchSwift.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmSearchVCB.aspx.cs">
+      <DependentUpon>WfrmSearchVCB.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmSearchVCB.aspx.designer.cs">
+      <DependentUpon>WfrmSearchVCB.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmSWIFT_TS.aspx.cs">
+      <DependentUpon>WfrmSWIFT_TS.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmSWIFT_TS.aspx.designer.cs">
+      <DependentUpon>WfrmSWIFT_TS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmVCB_TS.aspx.cs">
+      <DependentUpon>WfrmVCB_TS.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmVCB_TS.aspx.designer.cs">
+      <DependentUpon>WfrmVCB_TS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmViewIBPS_TS.aspx.cs">
+      <DependentUpon>WfrmViewIBPS_TS.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmViewIBPS_TS.aspx.designer.cs">
+      <DependentUpon>WfrmViewIBPS_TS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmViewMsgIBPS.aspx.cs">
+      <DependentUpon>WfrmViewMsgIBPS.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmViewMsgIBPS.aspx.designer.cs">
+      <DependentUpon>WfrmViewMsgIBPS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmViewMsgSWIFT.aspx.cs">
+      <DependentUpon>WfrmViewMsgSWIFT.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmViewMsgSWIFT.aspx.designer.cs">
+      <DependentUpon>WfrmViewMsgSWIFT.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmViewMsgVCB.aspx.cs">
+      <DependentUpon>WfrmViewMsgVCB.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmViewMsgVCB.aspx.designer.cs">
+      <DependentUpon>WfrmViewMsgVCB.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmViewSWIFT_TS.aspx.cs">
+      <DependentUpon>WfrmViewSWIFT_TS.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmViewSWIFT_TS.aspx.designer.cs">
+      <DependentUpon>WfrmViewSWIFT_TS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmViewVCB_TS.aspx.cs">
+      <DependentUpon>WfrmViewVCB_TS.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchMessage\WfrmViewVCB_TS.aspx.designer.cs">
+      <DependentUpon>WfrmViewVCB_TS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SystemInfo\WfrmSystemInfo.aspx.cs">
+      <DependentUpon>WfrmSystemInfo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SystemInfo\WfrmSystemInfo.aspx.designer.cs">
+      <DependentUpon>WfrmSystemInfo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SystemInfo\WfrmSystemPara.aspx.cs">
+      <DependentUpon>WfrmSystemPara.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SystemInfo\WfrmSystemPara.aspx.designer.cs">
+      <DependentUpon>WfrmSystemPara.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserRight\WfrmChangePass1.aspx.cs">
+      <DependentUpon>WfrmChangePass1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserRight\WfrmChangePass1.aspx.designer.cs">
+      <DependentUpon>WfrmChangePass1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserRight\WfrmChangePassword.aspx.cs">
+      <DependentUpon>WfrmChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserRight\WfrmChangePassword.aspx.designer.cs">
+      <DependentUpon>WfrmChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserRight\WfrmGroup.aspx.cs">
+      <DependentUpon>WfrmGroup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserRight\WfrmGroup.aspx.designer.cs">
+      <DependentUpon>WfrmGroup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Common\WfrmList.aspx.cs">
+      <DependentUpon>WfrmList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Common\WfrmList.aspx.designer.cs">
+      <DependentUpon>WfrmList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserRight\WfrmResetPass.aspx.cs">
+      <DependentUpon>WfrmResetPass.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserRight\WfrmResetPass.aspx.designer.cs">
+      <DependentUpon>WfrmResetPass.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WfrmLogin.aspx.cs">
+      <DependentUpon>WfrmLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WfrmLogin.aspx.designer.cs">
+      <DependentUpon>WfrmLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WfrmLogOut.aspx.cs">
+      <DependentUpon>WfrmLogOut.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WfrmLogOut.aspx.designer.cs">
+      <DependentUpon>WfrmLogOut.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserRight\WfrmSetPerReport.aspx.cs">
+      <DependentUpon>WfrmSetPerReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserRight\WfrmSetPerReport.aspx.designer.cs">
+      <DependentUpon>WfrmSetPerReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserRight\WfrmUser.aspx.cs">
+      <DependentUpon>WfrmUser.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserRight\WfrmUser.aspx.designer.cs">
+      <DependentUpon>WfrmUser.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Common\MasterPage.Master.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Common\MasterPage.Master.designer.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Common\WfrmListReport.aspx.cs">
+      <DependentUpon>WfrmListReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Common\WfrmListReport.aspx.designer.cs">
+      <DependentUpon>WfrmListReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserRight\WfrmSetFunctionToGroup.aspx.cs">
+      <DependentUpon>WfrmSetFunctionToGroup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserRight\WfrmSetFunctionToGroup.aspx.designer.cs">
+      <DependentUpon>WfrmSetFunctionToGroup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserRight\WfrmSetFunctionToUser.aspx.cs">
+      <DependentUpon>WfrmSetFunctionToUser.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserRight\WfrmSetFunctionToUser.aspx.designer.cs">
+      <DependentUpon>WfrmSetFunctionToUser.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserControl\MainMenu.ascx.cs">
+      <DependentUpon>MainMenu.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControl\MainMenu.ascx.designer.cs">
+      <DependentUpon>MainMenu.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserRight\WfrmSetGroupToUser.aspx.cs">
+      <DependentUpon>WfrmSetGroupToUser.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserRight\WfrmSetGroupToUser.aspx.designer.cs">
+      <DependentUpon>WfrmSetGroupToUser.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserRight\WfrmSetUserToGroup.aspx.cs">
+      <DependentUpon>WfrmSetUserToGroup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserRight\WfrmSetUserToGroup.aspx.designer.cs">
+      <DependentUpon>WfrmSetUserToGroup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewReport\WfrmViewCrystalReport.aspx.cs">
+      <DependentUpon>WfrmViewCrystalReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewReport\WfrmViewCrystalReport.aspx.designer.cs">
+      <DependentUpon>WfrmViewCrystalReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewReport\WfrmCondition10.aspx.cs">
+      <DependentUpon>WfrmCondition10.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewReport\WfrmCondition10.aspx.designer.cs">
+      <DependentUpon>WfrmCondition10.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewReport\WfrmReportList.aspx.cs">
+      <DependentUpon>WfrmReportList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewReport\WfrmReportList.aspx.designer.cs">
+      <DependentUpon>WfrmReportList.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="UserRight\WfrmChangePassword.aspx" />
+    <Content Include="UserRight\WfrmGroup.aspx" />
+    <Content Include="WfrmLogin.aspx" />
+    <Content Include="UserRight\WfrmUser.aspx" />
+    <Content Include="Images\topbanner08.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ReportCrystal\BM_IBPS01.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BM_IBPS01.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\BM_IBPS02.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BM_IBPS02.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\BM_IBPS02_CN.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BM_IBPS02_CN.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\BM_IBPS03_1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BM_IBPS03_1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\BM_IBPS03_1_CN.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BM_IBPS03_1_CN.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\BM_IBPS03_2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BM_IBPS03_2.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\BM_IBPS04.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BM_IBPS04.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\BM_IBPS05.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BM_IBPS05.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\BM_IBPS06.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BM_IBPS06.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\BM_IBPS07.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BM_IBPS07.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\BM_IBPS08.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BM_IBPS08.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\BM_IBPS09.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BM_IBPS09.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\BM_IBPS09_CN.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BM_IBPS09_CN.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\BM_IBPS10.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BM_IBPS10.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\BM_TTSP01.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BM_TTSP01.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\GW_TS.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>GW_TS.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\IBPS_BM01.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IBPS_BM01.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\IBPS_BM02.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IBPS_BM02.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\IBPS_BM03.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IBPS_BM03.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\IBPS_BM04.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IBPS_BM04.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\IBPS_BM05.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IBPS_BM05.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\IBPS_BM06.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IBPS_BM06.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\IBPS_BM07.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IBPS_BM07.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\IBPS_BM08.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IBPS_BM08.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\IBPS_PRINT_1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IBPS_PRINT_1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\IBPS_PRINT_2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IBPS_PRINT_2.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\SWIFT_02.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SWIFT_02.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\SWIFT_03.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SWIFT_03.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\SWIFT_03_DC.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SWIFT_03_DC.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\SWIFT_04.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SWIFT_04.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\SWIFT_05.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SWIFT_05.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\SWIFT_06.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SWIFT_06.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\SWIFT_07.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SWIFT_07.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\SWIFT_08.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SWIFT_08.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\SWIFT_08_DC.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SWIFT_08_DC.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\SWIFT_PRINT.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SWIFT_PRINT.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\SWIFT_PRINT_TF.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SWIFT_PRINT_TF.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\VCB_03.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>VCB_03.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\VCB_04.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>VCB_04.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\VCB_04_1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>VCB_04_1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\VCB_04_CN.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>VCB_04_CN.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\VCB_05.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>VCB_05.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\VCB_BM02.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>VCB_BM02.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\VCB_BM03.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>VCB_BM03.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\VCB_BM04.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>VCB_BM04.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\VCB_PRINT.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>VCB_PRINT.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\VCB_PRINT_1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>VCB_PRINT_1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCrystal\VCB_PRINT_2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>VCB_PRINT_2.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\BIDVWEB.Business.dll" />
+    <Content Include="bin\BIDVWEB.Business.pdb" />
+    <Content Include="bin\BIDVWEB.Comm.dll" />
+    <Content Include="bin\BIDVWEB.Comm.pdb" />
+    <Content Include="bin\Microsoft.Office.Interop.Excel.dll" />
+    <Content Include="bin\Microsoft.Office.Interop.SmartTag.dll" />
+    <Content Include="bin\Microsoft.Vbe.Interop.dll" />
+    <Content Include="bin\Microsoft.VisualStudio.Data.Providers.Oracle.dll" />
+    <Content Include="bin\office.dll" />
+    <Content Include="bin\Oracle.DataAccess.dll" />
+    <Content Include="Common\Main.aspx" />
+    <Content Include="Common\WfrmList.aspx" />
+    <Content Include="Css\Styles.css" />
+    <Content Include="Images\BIDVGateway.jpg" />
+    <Content Include="Images\logoBridge.JPG" />
+    <Content Include="Images\usmenu.gif" />
+    <Content Include="Scripts\Common.js" />
+    <Content Include="Scripts\Scroll.js" />
+    <Content Include="SearchMessage\WfrmIBPS_TS.aspx" />
+    <Content Include="SearchMessage\WfrmSearchIBPS.aspx" />
+    <Content Include="SearchMessage\WfrmSearchSwift.aspx" />
+    <Content Include="SearchMessage\WfrmSearchVCB.aspx" />
+    <Content Include="SearchMessage\WfrmSWIFT_TS.aspx" />
+    <Content Include="SearchMessage\WfrmVCB_TS.aspx" />
+    <Content Include="SearchMessage\WfrmViewIBPS_TS.aspx" />
+    <Content Include="SearchMessage\WfrmViewMsgIBPS.aspx" />
+    <Content Include="SearchMessage\WfrmViewMsgSWIFT.aspx" />
+    <Content Include="SearchMessage\WfrmViewMsgVCB.aspx" />
+    <Content Include="SearchMessage\WfrmViewSWIFT_TS.aspx" />
+    <Content Include="SearchMessage\WfrmViewVCB_TS.aspx" />
+    <Content Include="SystemInfo\WfrmSystemPara.aspx" />
+    <Content Include="UserRight\WfrmChangePass1.aspx" />
+    <Content Include="UserRight\WfrmResetPass.aspx" />
+    <Content Include="WfrmLogOut.aspx" />
+    <Content Include="Common\MasterPage.Master" />
+    <Content Include="Common\WfrmListReport.aspx" />
+    <Content Include="Css\GridPager.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="Images\folder.gif" />
+    <Content Include="Images\insertdate.gif" />
+    <Content Include="Images\top2.jpg" />
+    <Content Include="Images\txtmenu.gif" />
+    <Content Include="Images\wordclean.gif" />
+    <Content Include="Module\Global.asax" />
+    <Content Include="Scripts\popcalendar.js" />
+    <Content Include="SystemInfo\WfrmSystemInfo.aspx" />
+    <Content Include="UserRight\WfrmSetFunctionToGroup.aspx" />
+    <Content Include="UserRight\WfrmSetFunctionToUser.aspx" />
+    <Content Include="UserRight\WfrmSetGroupToUser.aspx" />
+    <Content Include="UserRight\WfrmSetPerReport.aspx" />
+    <Content Include="UserRight\WfrmSetUserToGroup.aspx" />
+    <Content Include="ViewReport\WfrmViewCrystalReport.aspx" />
+    <Content Include="ViewReport\WfrmCondition10.aspx" />
+    <Content Include="ViewReport\WfrmReportList.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Business\Business.csproj">
+      <Project>{FBA67E65-5672-4D94-B889-4BD414A575E9}</Project>
+      <Name>Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Comm\Comm.csproj">
+      <Project>{18B541A9-572A-4A57-8754-2D38CF861D8B}</Project>
+      <Name>Comm</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="XmlFiles\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v9.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>False</AutoAssignPort>
+          <DevelopmentServerPort>3497</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

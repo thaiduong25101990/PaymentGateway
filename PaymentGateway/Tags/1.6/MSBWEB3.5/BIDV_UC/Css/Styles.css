@@ -1,0 +1,487 @@
+﻿/* Default CSS Stylesheet for a new Web Application project */
+.body
+{
+	scrollbar-face-color: #BAC8D5;
+	scrollbar-highlight-color: #DCF5F8;
+	scrollbar-shadow-color: #DEE3E7;
+	scrollbar-3dlight-color: #879BA9;
+	scrollbar-arrow-color: #FFFFFF;
+	scrollbar-track-color: #E0EAEF;
+	scrollbar-darkshadow-color: #90ABBE;
+}
+.DialogCaption
+{
+	BORDER-RIGHT: buttonshadow 1px solid; 
+	PADDING-RIGHT: 5px; 
+	BORDER-TOP: #f5f5f5 1px solid; 
+	PADDING-LEFT: 2px; 
+	PADDING-BOTTOM: 0px; 
+	BORDER-LEFT: #f5f5f5 1px solid; 
+	PADDING-TOP: 0px; 
+	BORDER-BOTTOM: buttonshadow 1px solid; 
+	BACKGROUND-COLOR: #7aa0e6;
+	height: 10px; 
+}
+.DialogContent
+{
+	border-right: buttonshadow 1px solid;
+	padding-right: 5px;
+	border-top: #f5f5f5 1px solid;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	border-left: #f5f5f5 1px solid;
+	padding-top: 5px;
+	border-bottom: buttonshadow 1px solid;
+	background-color: #ffffff;
+}
+.DialogContentSmall
+{
+	border-right: buttonshadow 1px solid;
+	padding-right: 1px;
+	border-top: #f5f5f5 1px solid;
+	padding-left: 1px;
+	padding-bottom: 1px;
+	border-left: #f5f5f5 1px solid;
+	padding-top: 1px;
+	border-bottom: buttonshadow 1px solid;
+	background-color: #ffffff;
+}
+
+.DialogContain
+{
+	BORDER-RIGHT: #f5f5f5 1px solid;
+	BORDER-TOP:  buttonshadow 1px solid; 
+	BORDER-LEFT:  buttonshadow 1px solid; 
+	BORDER-BOTTOM: #f5f5f5 1px solid;
+	BACKGROUND-COLOR: White;
+}
+.Dialog
+{
+	BORDER-RIGHT: buttonshadow 1px solid; 
+	PADDING-RIGHT: 0px; 
+	BORDER-TOP: #f5f5f5 1px solid; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	BORDER-LEFT: #f5f5f5 1px solid; 
+	PADDING-TOP: 0px; 
+	BORDER-BOTTOM: buttonshadow 1px solid; 
+	BACKGROUND-COLOR: #ffffff;
+}
+
+
+BODY
+{
+    FONT-FAMILY: Arial, Microsoft Sans Serif, Verdana;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    color: black;
+    LETTER-SPACING: normal;
+    TEXT-TRANSFORM: none;
+    WORD-SPACING: normal;
+}
+
+.TextBox
+{
+    BACKGROUND-ATTACHMENT: fixed;
+    BACKGROUND-COLOR:#f0f0f0;
+    BACKGROUND-REPEAT: repeat;
+    BACKGROUND-ATTACHMENT: fixed;
+    BORDER-BOTTOM: #dedede 1px solid;
+    BORDER-LEFT: #dedede 1px solid;
+    BORDER-RIGHT: #dedede 1px solid;
+    BORDER-TOP: #dedede 1px solid;    
+    COLOR: #21517b;
+    FONT-FAMILY: Tahoma;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: normal;
+    MARGIN-TOP: 0pt;
+    TEXT-ALIGN: left;
+    HEIGHT:20px;
+    WIDTH:140px;
+}
+.HyperLink
+{
+	TEXT-DECORATION: underline;
+	COLOR: #3333cc;
+} 
+ 
+.TextBox1, .DropDownList,.Checkbox,.Label {
+	font: Arial, Microsoft Sans Serif, Verdana;
+	font-size: 9pt;
+	color: black;
+}
+ 
+
+.MenuTop
+{
+	FONT-FAMILY: Arial, Microsoft Sans Serif, Verdana;
+    FONT-SIZE: 9pt;       
+    FONT-WEIGHT: normal;
+    color: black;
+    LETTER-SPACING: normal;
+    TEXT-TRANSFORM: none;
+    WORD-SPACING: normal;    
+}
+
+/*
+.Web_Menu_1
+{
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#98B2E6', gradientType='1')
+}
+.Web_Menu_2
+{
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#98B2E6', endColorStr='#3568CC', gradientType='1')
+}
+.Web_Menu_3
+{	
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#6799FF', gradientType='1')
+}
+*/
+.SubTitle
+{
+	PADDING-LEFT: 20px
+}
+
+TD 
+{
+	font: Arial, Microsoft Sans Serif, Verdana;
+	font-size: 9pt;
+	line-height: 22px;
+}
+.Button
+{
+	width: 80px;
+	height: 25px;
+}
+
+.ValidateError
+{
+	font-weight: bold;
+	font-size: 10pt;
+	color: red;
+	font-family: tahoma,sans-serif;
+}
+
+TH	{	
+	vertical-align:	baseline;
+	font-size:	1em;
+	font-weight:	bold;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	font-family: Arial, Microsoft Sans Serif;
+}	
+A:link
+{
+	text-decoration: underline;
+	color: #3333cc;
+}
+
+a:active
+{
+	color: #0000ff;
+}
+
+a:link
+{
+	color: #0000FF;
+}
+
+a:visited
+{
+	color: #0000FF;
+}
+
+a
+{
+	color: #0000FF;
+}
+
+A:hover
+{
+	color: #0000ff;
+}	
+
+H1, H2, H3, H4, H5, TH, THEAD, TFOOT {
+    COLOR: #003F75;
+}
+
+H1	{	
+	font-family: Arial, Microsoft Sans Serif, Verdana;
+	font-size:	2em;
+	font-weight:	700;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+}	
+		
+H2	{	
+	font-family: Arial, Microsoft Sans Serif,Verdana;
+	font-size:	1.75em;
+	font-weight:	700;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+}	
+		
+H3	{	
+	font-family: Arial, Microsoft Sans Serif, Verdana;
+	font-size:	1.58em;
+	font-weight:	500;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+}	
+		
+H4	{	
+	font-family: Arial,  Sans Serif, Verdana;
+	font-size:	1.33em;
+	font-weight:	500;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+}	
+		
+H5, DT	{	
+	font-family:  Arial, Microsoft Sans Serif, Verdana;
+	font-size:	1em;
+	font-weight:	700;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+}	
+		
+H6	{	
+	font-family: Arial, Microsoft Sans Serif, Verdana;
+	font-size:	.8em;
+	font-weight:	700;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+}	
+		
+TFOOT, THEAD	{	
+	font-size:	1em;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	font-family: Arial, Helvetica, sans-serif;
+	}	
+		
+SMALL
+{
+	font-size: 0.7em;
+	
+}	
+
+BIG	{	
+	font-size:	1.17em;
+}	
+
+BLOCKQUOTE, PRE	{	
+	font-family:	Courier New, monospace;
+}	
+	
+
+UL LI	{	
+	list-style-type:	square ;
+}	
+
+UL LI LI	{	
+	list-style-type:	disc;
+}	
+
+UL LI LI LI	{	
+	list-style-type:	circle;
+}	
+	
+OL LI	{	
+	list-style-type:	decimal;
+}	
+
+OL OL LI	{	
+	list-style-type:	lower-alpha;
+}	
+
+OL OL OL LI	{	
+	list-style-type:	lower-roman;
+}
+
+.Header {
+	font-weight:bold;
+	color:white;
+	height:10px 
+}
+
+.Error {
+	font: Arial, Microsoft Sans Serif, Verdana;
+	font-size: 9pt;
+	color: red;
+}
+
+
+/*Định dạng hiển thị trên DataGrid*/
+.Layout 
+{
+	 border-color: white;
+}
+.Grid_Header {
+	font-family:  Arial, Microsoft Sans Serif ;
+	font-size: 8pt;
+	color: Black;
+	height: 10px 
+}
+
+.Grid_Header_Thin {
+	font-family:  Arial, Microsoft Sans Serif, Verdana;
+	font-size: 8pt;
+	color: white;
+	background-color: #649ED0;
+}
+
+.GridLink {
+	color: maroon;
+}
+
+.GridLink:hover {
+	color: red;
+}
+.Grid_General {
+	font: 8pt Arial, Microsoft Sans Serif, Verdana;
+	color: white;
+	background-color: white;
+}
+
+.Grid_NormalItem {
+	font-family: Arial, Microsoft Sans Serif, Verdana;
+	font-size:8pt;
+	background-color: white;
+	vertical-align: middle;
+}
+.Grid_AlternatingItel
+ {
+	font-family: Arial, Microsoft Sans Serif, Verdana;
+	font-size:8pt;
+	background-color: FloralWhite;
+	vertical-align: middle;
+}
+
+.Grid_AlternatingItem {
+	font-family: Arial, Microsoft Sans Serif, Verdana;
+	font-size:8pt;
+	background-color: FloralWhite;
+	vertical-align: middle;
+}
+
+.Grid_SelectedItem {
+	font-family: Arial, Microsoft Sans Serif, Verdana;
+	font-size: 8pt;
+	background-color: white;
+	vertical-align: middle;
+}
+
+/* Top level table (calendar window) */
+TABLE.pcalTbl {
+    BACKGROUND-COLOR: #f0f0f0; BORDER-BOTTOM: #a0a0a0 1px solid; BORDER-LEFT: #a0a0a0 1px solid; BORDER-RIGHT: #a0a0a0 1px solid; BORDER-TOP: #a0a0a0 1px solid; FONT-FAMILY: Arial; FONT-SIZE: 9px
+}
+/* Listing table (for select year, month) */
+TABLE.pcalTblList {
+    BACKGROUND-COLOR: #f0f0f0; font-family:Arial;font-size:9px;border:1px solid #a0a0a0;
+}
+/* Content table (for select date) */
+TABLE.pcalTblContent {
+    BACKGROUND-COLOR: #ffffff; FONT-FAMILY: Arial; FONT-SIZE: 9px
+}
+/* A cell to select month or year from list */
+TD.pcalList {
+    CURSOR: hand; color: #000066;
+}
+TD.pcalCaption {
+    padding:2px;font-family:Arial;font-size:9px;
+}
+SPAN.pcalSelBtn {
+    border:1px solid #36f; cursor:hand;
+}
+
+/* Link of heading (month, year) */
+A.pcalHead:hover {
+    CURSOR: hand;BORDER-BOTTOM: #36f 1px solid; BORDER-LEFT: #36f 1px solid; BORDER-RIGHT: #36f 1px solid; BORDER-TOP: #36f 1px solid
+}
+/* Link to select date */
+A.pcalDate:link {
+    CURSOR: hand; BACKGROUND-COLOR: #ffffff; COLOR: black; FONT-FAMILY: Arial, Microsoft Sans Serif, Verdana; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+A.pcalDate:visited {
+    CURSOR: hand; BACKGROUND-COLOR: #ffffff; COLOR: black; FONT-FAMILY: Arial, Microsoft Sans Serif, Verdana; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+A.pcalDate:hover {
+    CURSOR: hand; BACKGROUND-COLOR: #FFFF66; COLOR: white; FONT-FAMILY: Arial, Microsoft Sans Serif, Verdana; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+A.pcalDate:active {
+    CURSOR: hand; BACKGROUND-COLOR: #ffffff; COLOR: black; FONT-FAMILY: Arial, Microsoft Sans Serif, Verdana; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+/* Link of non-selectable dates */
+A.pcalNDate:link {
+    COLOR: #999999; FONT-FAMILY: Arial, Microsoft Sans Serif, Verdana; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+A.pcalNDate:visited {
+    COLOR: #999999; FONT-FAMILY: Arial, Microsoft Sans Serif, Verdana; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+A.pcalNDate:hover {
+    COLOR: #999999; FONT-FAMILY: Arial, Microsoft Sans Serif, Verdana; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+A.pcalNDate:active {
+    COLOR: #999999; FONT-FAMILY: Arial, Microsoft Sans Serif, Verdana; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+
+.gt0 {
+	BORDER-RIGHT: #3568cc 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #3568cc 1px solid; PADDING-LEFT: 4px; FONT-SIZE: 100%; PADDING-BOTTOM: 2px; BORDER-LEFT: #3568cc 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #3568cc 1px solid
+}
+.gtsep {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; PADDING-BOTTOM: 2px; FONT: 65% Verdana; COLOR: #adc9ff; PADDING-TOP: 0px
+}
+.btn{
+		BORDER-RIGHT: #FFFFFF 2px outset; 
+		BORDER-TOP: #FFFFFF 2px outset; 
+		FONT-SIZE: 10pt; 
+		BORDER-LEFT: #FFFFFF 2px outset; 
+		WIDTH: 80px; 
+		CURSOR: hand; 
+		COLOR: #000CC0; 
+		BORDER-BOTTOM: #FFFFFF 2px outset; 
+		FONT-FAMILY: arial; 
+		HEIGHT: 20pt; 
+		BACKGROUND-COLOR:#FFFFFF; 
+		TEXT-ALIGN: center;
+	}
+.smallbtn
+{
+	BACKGROUND-POSITION: center center; WIDTH: 30px; HEIGHT: 20px
+}
+.Title 
+{
+	BACKGROUND-COLOR: #7aa0e6;
+	font-weight:600;
+	font-size:10px;
+	color:White;
+	font-family:MS Sans Serif,Times New Roman ;	
+}
+.Title1
+{
+	BACKGROUND-COLOR: #7aa0e6;
+	font-weight:600;
+	font-size:10px;
+	font-family:Times New Roman ;
+	color:White;	
+}

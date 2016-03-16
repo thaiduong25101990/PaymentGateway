@@ -1,0 +1,78 @@
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRTTSB.dll
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRTTSB.pdb
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmCheckMsg.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmDayDuplicate.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmIQSList.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmIQSNew1.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmIQSNew2.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmSelectTypeIQS.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmTTSPMsgInfo.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmTTSPMsgList.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmTTSPRec.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.csproj.GenerateResource.Cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BRTTSB.dll
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRTTSB\obj\Debug\BRTTSB.pdb
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\BR_Monitor\OUTPUT\BRTTSB.dll
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\BR_Monitor\OUTPUT\BRTTSB.pdb
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\BR_Monitor\BRTTSB\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmCheckMsg.resources
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmDayDuplicate.resources
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmIQSList.resources
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmIQSNew1.resources
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmIQSNew2.resources
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmSelectTypeIQS.resources
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmTTSPMsgInfo.resources
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmTTSPMsgList.resources
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmTTSPRec.resources
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\BR_Monitor\BRTTSB\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\BR_Monitor\BRTTSB\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\BR_Monitor\BRTTSB\obj\Debug\BRTTSB.dll
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\BR_Monitor\BRTTSB\obj\Debug\BRTTSB.pdb
+F:\VID PB\OUTSOURCE\MSB\GATEWAY\BR_MONITOR\OUTPUT\BRTTSB.dll
+F:\VID PB\OUTSOURCE\MSB\GATEWAY\BR_MONITOR\OUTPUT\BRTTSB.pdb
+F:\VID PB\OUTSOURCE\MSB\GATEWAY\BR_MONITOR\BRTTSB\obj\Debug\ResolveAssemblyReference.cache
+F:\VID PB\OUTSOURCE\MSB\GATEWAY\BR_MONITOR\BRTTSB\obj\Debug\BR.BRTTSB.frmCheckMsg.resources
+F:\VID PB\OUTSOURCE\MSB\GATEWAY\BR_MONITOR\BRTTSB\obj\Debug\BR.BRTTSB.frmDayDuplicate.resources
+F:\VID PB\OUTSOURCE\MSB\GATEWAY\BR_MONITOR\BRTTSB\obj\Debug\BR.BRTTSB.frmIQSList.resources
+F:\VID PB\OUTSOURCE\MSB\GATEWAY\BR_MONITOR\BRTTSB\obj\Debug\BR.BRTTSB.frmIQSNew1.resources
+F:\VID PB\OUTSOURCE\MSB\GATEWAY\BR_MONITOR\BRTTSB\obj\Debug\BR.BRTTSB.frmIQSNew2.resources
+F:\VID PB\OUTSOURCE\MSB\GATEWAY\BR_MONITOR\BRTTSB\obj\Debug\BR.BRTTSB.frmSelectTypeIQS.resources
+F:\VID PB\OUTSOURCE\MSB\GATEWAY\BR_MONITOR\BRTTSB\obj\Debug\BR.BRTTSB.frmTTSPMsgInfo.resources
+F:\VID PB\OUTSOURCE\MSB\GATEWAY\BR_MONITOR\BRTTSB\obj\Debug\BR.BRTTSB.frmTTSPMsgList.resources
+F:\VID PB\OUTSOURCE\MSB\GATEWAY\BR_MONITOR\BRTTSB\obj\Debug\BR.BRTTSB.frmTTSPRec.resources
+F:\VID PB\OUTSOURCE\MSB\GATEWAY\BR_MONITOR\BRTTSB\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\VID PB\OUTSOURCE\MSB\GATEWAY\BR_MONITOR\BRTTSB\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\VID PB\OUTSOURCE\MSB\GATEWAY\BR_MONITOR\BRTTSB\obj\Debug\BRTTSB.dll
+F:\VID PB\OUTSOURCE\MSB\GATEWAY\BR_MONITOR\BRTTSB\obj\Debug\BRTTSB.pdb
+D:\MSBWorking\FPTBridge\Deploy_3_5_12\BR_MONITOR\OUTPUT\BRTTSB.dll
+D:\MSBWorking\FPTBridge\Deploy_3_5_12\BR_MONITOR\OUTPUT\BRTTSB.pdb
+D:\MSBWorking\FPTBridge\Deploy_3_5_12\BR_MONITOR\BRTTSB\obj\Debug\ResolveAssemblyReference.cache
+D:\MSBWorking\FPTBridge\Deploy_3_5_12\BR_MONITOR\BRTTSB\obj\Debug\BR.BRTTSB.frmCheckMsg.resources
+D:\MSBWorking\FPTBridge\Deploy_3_5_12\BR_MONITOR\BRTTSB\obj\Debug\BR.BRTTSB.frmDayDuplicate.resources
+D:\MSBWorking\FPTBridge\Deploy_3_5_12\BR_MONITOR\BRTTSB\obj\Debug\BR.BRTTSB.frmIQSList.resources
+D:\MSBWorking\FPTBridge\Deploy_3_5_12\BR_MONITOR\BRTTSB\obj\Debug\BR.BRTTSB.frmIQSNew1.resources
+D:\MSBWorking\FPTBridge\Deploy_3_5_12\BR_MONITOR\BRTTSB\obj\Debug\BR.BRTTSB.frmIQSNew2.resources
+D:\MSBWorking\FPTBridge\Deploy_3_5_12\BR_MONITOR\BRTTSB\obj\Debug\BR.BRTTSB.frmSelectTypeIQS.resources
+D:\MSBWorking\FPTBridge\Deploy_3_5_12\BR_MONITOR\BRTTSB\obj\Debug\BR.BRTTSB.frmTTSPMsgInfo.resources
+D:\MSBWorking\FPTBridge\Deploy_3_5_12\BR_MONITOR\BRTTSB\obj\Debug\BR.BRTTSB.frmTTSPMsgList.resources
+D:\MSBWorking\FPTBridge\Deploy_3_5_12\BR_MONITOR\BRTTSB\obj\Debug\BR.BRTTSB.frmTTSPRec.resources
+D:\MSBWorking\FPTBridge\Deploy_3_5_12\BR_MONITOR\BRTTSB\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\MSBWorking\FPTBridge\Deploy_3_5_12\BR_MONITOR\BRTTSB\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\MSBWorking\FPTBridge\Deploy_3_5_12\BR_MONITOR\BRTTSB\obj\Debug\BRTTSB.dll
+D:\MSBWorking\FPTBridge\Deploy_3_5_12\BR_MONITOR\BRTTSB\obj\Debug\BRTTSB.pdb
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\BRTTSB.dll
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\BRTTSB.pdb
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRTTSB\obj\Debug\ResolveAssemblyReference.cache
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmCheckMsg.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmDayDuplicate.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmIQSList.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmIQSNew1.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmIQSNew2.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmSelectTypeIQS.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmTTSPMsgInfo.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmTTSPMsgList.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.frmTTSPRec.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRTTSB\obj\Debug\BR.BRTTSB.csproj.GenerateResource.Cache
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRTTSB\obj\Debug\BRTTSB.dll
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRTTSB\obj\Debug\BRTTSB.pdb

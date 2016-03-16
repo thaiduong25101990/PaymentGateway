@@ -1,0 +1,4 @@
+
+insert into SYSVAR (ID, GWTYPE, VARNAME, VALUE, TYPE, NOTE, DESCRIPTION)
+values (2215, 'IBPS', 'IBPS_START_TIME', '0300', 'int', 'IBPS_START_TIME', 'Gio start Job');
+

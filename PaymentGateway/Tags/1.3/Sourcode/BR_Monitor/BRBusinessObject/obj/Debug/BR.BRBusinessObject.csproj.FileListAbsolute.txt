@@ -1,0 +1,21 @@
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRBusinessObject.dll
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRBusinessObject\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRBusinessObject\obj\Debug\BR.BRBusinessObject.Properties.Resources.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRBusinessObject\obj\Debug\BR.BRBusinessObject.csproj.GenerateResource.Cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRBusinessObject\obj\Debug\BRBusinessObject.dll
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRBusinessObject\obj\Debug\BRBusinessObject.pdb
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRBusinessObject.pdb
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRBusinessObject.dll
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRBusinessObject.pdb
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRBusinessObject\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRBusinessObject\obj\Debug\BR.BRBusinessObject.Properties.Resources.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRBusinessObject\obj\Debug\BR.BRBusinessObject.csproj.GenerateResource.Cache
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRBusinessObject\obj\Debug\BRBusinessObject.dll
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRBusinessObject\obj\Debug\BRBusinessObject.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRBusinessObject.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRBusinessObject.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRBusinessObject\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRBusinessObject\obj\Debug\BR.BRBusinessObject.Properties.Resources.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRBusinessObject\obj\Debug\BR.BRBusinessObject.csproj.GenerateResource.Cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRBusinessObject\obj\Debug\BRBusinessObject.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRBusinessObject\obj\Debug\BRBusinessObject.pdb

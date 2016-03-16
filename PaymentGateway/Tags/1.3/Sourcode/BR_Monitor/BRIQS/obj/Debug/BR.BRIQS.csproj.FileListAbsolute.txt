@@ -1,0 +1,33 @@
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BR.BRIQS.dll
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BR.BRIQS.pdb
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIQS\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.frmIQSMsgCond.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.frmIQSMsgCondNew.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.frmIQSMsgInfo.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.frmIQSMsgInfo1.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.Properties.Resources.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.csproj.GenerateResource.Cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.dll
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.pdb
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BR.BRIQS.dll
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BR.BRIQS.pdb
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIQS\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.frmIQSMsgCond.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.frmIQSMsgCondNew.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.frmIQSMsgInfo.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.frmIQSMsgInfo1.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.Properties.Resources.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.csproj.GenerateResource.Cache
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.dll
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BR.BRIQS.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BR.BRIQS.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIQS\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.frmIQSMsgCond.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.frmIQSMsgCondNew.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.frmIQSMsgInfo.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.frmIQSMsgInfo1.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.Properties.Resources.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.csproj.GenerateResource.Cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIQS\obj\Debug\BR.BRIQS.pdb

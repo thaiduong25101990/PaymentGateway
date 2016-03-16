@@ -1,0 +1,60 @@
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRInterBank.dll
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmIQSList.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmIQSNew1.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmIQSNew2.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmMessageImportError.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmSelectTypeIQS.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBFeeCal.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBImp.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBRec.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBMsgInfo.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBMsgList.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBReceive.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBResend.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBResendInfo.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.Properties.Resources.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.csproj.GenerateResource.Cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BRInterBank.dll
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BRInterBank.pdb
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRInterBank.pdb
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRInterBank.dll
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRInterBank.pdb
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmIQSList.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmIQSNew1.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmIQSNew2.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmMessageImportError.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmSelectTypeIQS.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBFeeCal.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBImp.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBRec.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBMsgInfo.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBMsgList.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBReceive.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBResend.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBResendInfo.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.Properties.Resources.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.csproj.GenerateResource.Cache
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BRInterBank.dll
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BRInterBank.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRInterBank.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRInterBank.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmIQSList.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmIQSNew1.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmIQSNew2.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmMessageImportError.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmSelectTypeIQS.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBFeeCal.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBImp.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBRec.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBMsgInfo.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBMsgList.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBReceive.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBResend.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.frmVCBResendInfo.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.Properties.Resources.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BR.BRInterBank.csproj.GenerateResource.Cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BRInterBank.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRInterBank\obj\Debug\BRInterBank.pdb

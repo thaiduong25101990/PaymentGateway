@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FBA67E65-5672-4D94-B889-4BD414A575E9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BIDVWEB.Business</RootNamespace>
+    <AssemblyName>BIDVWEB.Business</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Data.AdoDotNetInterop, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.VSDesigner, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Web, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="Microsoft.Office.Tools.Excel.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System.Data.SqlXml" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Net">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions.Design">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsBranch.cs" />
+    <Compile Include="clsForm.cs" />
+    <Compile Include="clsGridview.cs" />
+    <Compile Include="clsLogin.cs" />
+    <Compile Include="clsMenu.cs" />
+    <Compile Include="clsSearchCommon.cs" />
+    <Compile Include="ObjBesiness\TTSP_MSG_CONTENT_BO.cs" />
+    <Compile Include="ObjBesiness\GROUPS_BO.cs" />
+    <Compile Include="ObjBesiness\GROUP_USER_BO.cs" />
+    <Compile Include="ObjBesiness\IBPS_MSG_CONTENT_BO.cs" />
+    <Compile Include="ObjBesiness\IBPS_TS_BO.cs" />
+    <Compile Include="ObjBesiness\REPORT_PARA_BO.cs" />
+    <Compile Include="ObjBesiness\SWIFT_MSG_CONTENT_BO.cs" />
+    <Compile Include="ObjBesiness\SWIFT_TS_BO.cs" />
+    <Compile Include="ObjBesiness\SYSPARA_BO.cs" />
+    <Compile Include="ObjBesiness\USERS_BO.cs" />
+    <Compile Include="ObjBesiness\USER_MSG_LOG_BO.cs" />
+    <Compile Include="ObjBesiness\USER_PASS_BO.cs" />
+    <Compile Include="ObjBesiness\VCB_MSG_CONTENT_BO.cs" />
+    <Compile Include="ObjBesiness\VCB_TS_BO.cs" />
+    <Compile Include="ObjectInfo\TTSP_MSG_CONTENT_Info.cs" />
+    <Compile Include="ObjectInfo\GROUPS_Info.cs" />
+    <Compile Include="ObjectInfo\GROUP_USER_Info.cs" />
+    <Compile Include="ObjectInfo\IBPS_MSG_CONTENT_Info.cs" />
+    <Compile Include="ObjectInfo\IBPS_TS_Info.cs" />
+    <Compile Include="ObjectInfo\REPORT_PARA_INFO.cs" />
+    <Compile Include="ObjectInfo\SWIFT_MSG_CONTENT_Info.cs" />
+    <Compile Include="ObjectInfo\SWIFT_TS_Info.cs" />
+    <Compile Include="ObjectInfo\SYSPARA_Info.cs" />
+    <Compile Include="ObjectInfo\USERS_Info.cs" />
+    <Compile Include="ObjectInfo\USER_MSG_LOG_Info.cs" />
+    <Compile Include="ObjectInfo\USER_PASS_Info.cs" />
+    <Compile Include="ObjectInfo\VCB_MSG_CONTENT_Info.cs" />
+    <Compile Include="ObjectInfo\VCB_TS_Info.cs" />
+    <Compile Include="ObjectProcess\TTSP_MSG_CONTENT_DAO.cs" />
+    <Compile Include="ObjectProcess\GROUPS_DAO.cs" />
+    <Compile Include="ObjectProcess\GROUP_USER_DAO.cs" />
+    <Compile Include="ObjectProcess\IBPS_MSG_CONTENT_DAO.cs" />
+    <Compile Include="ObjectProcess\IBPS_TS_DAO.cs" />
+    <Compile Include="ObjectProcess\REPORT_PARA_DAO.cs" />
+    <Compile Include="ObjectProcess\SWIFT_MSG_CONTENT_DAO.cs" />
+    <Compile Include="ObjectProcess\SWIFT_TS_DAO.cs" />
+    <Compile Include="ObjectProcess\SYSPARA_DAO.cs" />
+    <Compile Include="ObjectProcess\USERS_DAO.cs" />
+    <Compile Include="ObjectProcess\USER_MSG_LOG_DAO.cs" />
+    <Compile Include="ObjectProcess\USER_PASS_DAO.cs" />
+    <Compile Include="ObjectProcess\VCB_MSG_CONTENT_DAO.cs" />
+    <Compile Include="ObjectProcess\VCB_TS_DAO.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\clsListReport.cs" />
+    <Compile Include="Reports\clsMSReport.cs" />
+    <Compile Include="Reports\clsReport.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reports\clsReportComm.cs" />
+    <Compile Include="Reports\clsReportParameter.cs" />
+    <Compile Include="SearchMessage\clsSearchIBPS.cs" />
+    <Compile Include="SearchMessage\clsSearchSwift.cs" />
+    <Compile Include="SearchMessage\clsSearchVCB.cs" />
+    <Compile Include="SearchMessage\clsSearchTTSP.cs" />
+    <Compile Include="SessionHelper.cs" />
+    <Compile Include="SystemInfo\clsSystemInfo.cs" />
+    <Compile Include="UserRight\clsGroup.cs" />
+    <Compile Include="UserRight\clsUser.cs" />
+    <Compile Include="UserRight\clsUserRight.cs" />
+    <Compile Include="UserRight\clsUserRightInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Comm\Comm.csproj">
+      <Project>{18B541A9-572A-4A57-8754-2D38CF861D8B}</Project>
+      <Name>Comm</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

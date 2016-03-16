@@ -1,0 +1,74 @@
+D:\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.dll.config
+D:\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.dll
+D:\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.pdb
+D:\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\BIDVWEB.Comm.dll
+D:\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\BIDVWEB.Comm.pdb
+D:\MSBWEB\BIDVWEB.root\BIDVWEB\Business\obj\Debug\ResolveAssemblyReference.cache
+D:\MSBWEB\BIDVWEB.root\BIDVWEB\Business\obj\Debug\Business.csproj.ResolveComReference.cache
+D:\MSBWEB\BIDVWEB.root\BIDVWEB\Business\obj\Debug\BIDVWEB.Business.dll
+D:\MSBWEB\BIDVWEB.root\BIDVWEB\Business\obj\Debug\BIDVWEB.Business.pdb
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\MSBWEB\BIDVWEB.root\BIDVWEB\Business\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\MSBWEB\BIDVWEB.root\BIDVWEB\Business\obj\Debug\Business.csproj.ResolveComReference.cache
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\MSBWEB\BIDVWEB.root\BIDVWEB\Business\obj\Debug\BIDVWEB.Business.pdb
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.dll.config
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.dll
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.pdb
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\BIDVWEB.Comm.dll
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\Oracle.DataAccess.dll
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\BIDVWEB.Comm.pdb
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\MSBWEB\BIDVWEB.root\BIDVWEB\Business\obj\Debug\BIDVWEB.Business.dll
+D:\Projects\GATEWAY\GATEWAY1\GATEWAY\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.dll.config
+D:\Projects\GATEWAY\GATEWAY1\GATEWAY\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.dll
+D:\Projects\GATEWAY\GATEWAY1\GATEWAY\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.pdb
+D:\Projects\GATEWAY\GATEWAY1\GATEWAY\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\BIDVWEB.Comm.dll
+D:\Projects\GATEWAY\GATEWAY1\GATEWAY\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\BIDVWEB.Comm.pdb
+D:\Projects\GATEWAY\GATEWAY1\GATEWAY\MSBWEB\BIDVWEB.root\BIDVWEB\Business\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\GATEWAY\GATEWAY1\GATEWAY\MSBWEB\BIDVWEB.root\BIDVWEB\Business\obj\Debug\Business.csproj.ResolveComReference.cache
+D:\Projects\GATEWAY\GATEWAY1\GATEWAY\MSBWEB\BIDVWEB.root\BIDVWEB\Business\obj\Debug\BIDVWEB.Business.dll
+D:\Projects\GATEWAY\GATEWAY1\GATEWAY\MSBWEB\BIDVWEB.root\BIDVWEB\Business\obj\Debug\BIDVWEB.Business.pdb
+D:\Projects\GATEWAY\GATEWAY1\GATEWAY\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\Oracle.DataAccess.dll
+D:\Projects\GATEWAY\BAN GIAO NGAY 25022012\WEB\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.dll.config
+D:\Projects\GATEWAY\BAN GIAO NGAY 25022012\WEB\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.dll
+D:\Projects\GATEWAY\BAN GIAO NGAY 25022012\WEB\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.pdb
+D:\Projects\GATEWAY\BAN GIAO NGAY 25022012\WEB\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\BIDVWEB.Comm.dll
+D:\Projects\GATEWAY\BAN GIAO NGAY 25022012\WEB\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\Oracle.DataAccess.dll
+D:\Projects\GATEWAY\BAN GIAO NGAY 25022012\WEB\MSBWEB\BIDVWEB.root\BIDVWEB\Business\bin\Debug\BIDVWEB.Comm.pdb
+D:\Projects\GATEWAY\BAN GIAO NGAY 25022012\WEB\MSBWEB\BIDVWEB.root\BIDVWEB\Business\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\GATEWAY\BAN GIAO NGAY 25022012\WEB\MSBWEB\BIDVWEB.root\BIDVWEB\Business\obj\Debug\Business.csproj.ResolveComReference.cache
+D:\Projects\GATEWAY\BAN GIAO NGAY 25022012\WEB\MSBWEB\BIDVWEB.root\BIDVWEB\Business\obj\Debug\BIDVWEB.Business.dll
+D:\Projects\GATEWAY\BAN GIAO NGAY 25022012\WEB\MSBWEB\BIDVWEB.root\BIDVWEB\Business\obj\Debug\BIDVWEB.Business.pdb
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.dll.config
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.dll
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.pdb
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB\Business\bin\Debug\BIDVWEB.Comm.dll
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB\Business\bin\Debug\Oracle.DataAccess.dll
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB\Business\bin\Debug\BIDVWEB.Comm.pdb
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB\Business\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB\Business\obj\Debug\Business.csproj.ResolveComReference.cache
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB\Business\obj\Debug\BIDVWEB.Business.dll
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB\Business\obj\Debug\BIDVWEB.Business.pdb
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB_20120508\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.dll.config
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB_20120508\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.dll
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB_20120508\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.pdb
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB_20120508\BIDVWEB\Business\bin\Debug\BIDVWEB.Comm.dll
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB_20120508\BIDVWEB\Business\bin\Debug\Oracle.DataAccess.dll
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB_20120508\BIDVWEB\Business\bin\Debug\BIDVWEB.Comm.pdb
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB_20120508\BIDVWEB\Business\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB_20120508\BIDVWEB\Business\obj\Debug\Business.csproj.ResolveComReference.cache
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB_20120508\BIDVWEB\Business\obj\Debug\BIDVWEB.Business.dll
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB_20120508\BIDVWEB\Business\obj\Debug\BIDVWEB.Business.pdb
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.dll.config
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.dll
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Business\bin\Debug\BIDVWEB.Business.pdb
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Business\bin\Debug\BIDVWEB.Comm.dll
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Business\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Business\bin\Debug\office.dll
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Business\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Business\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Business\bin\Debug\BIDVWEB.Comm.pdb
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Business\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Business\bin\Debug\office.xml
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Business\obj\Debug\ResolveAssemblyReference.cache
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Business\obj\Debug\Business.csproj.ResolveComReference.cache
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Business\obj\Debug\BIDVWEB.Business.dll
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Business\obj\Debug\BIDVWEB.Business.pdb

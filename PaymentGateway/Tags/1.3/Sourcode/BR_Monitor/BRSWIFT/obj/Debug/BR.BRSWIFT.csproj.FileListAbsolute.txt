@@ -1,0 +1,111 @@
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRSWIFT.dll
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.Approve_manual.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmImpfiletext.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmMessageImportError.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIFTBankMap.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftEditBrAuto.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftEditMdlAuto.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftEditMessage.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIFTFeeCal.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftImp.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftINMsgManual.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftMsgInfo.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftMsgList.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftMsgManual.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftMsgManualDup.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftMsgManualEdit.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftMsgManualInfo.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftRec.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftResend.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftResendInfo.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftStatement.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWAutoValue.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWBrAuto.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWChk.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWConditionBr.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWConditionMdl.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWModulAuto.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWValueMdl.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwNoRec.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWRMBrAuto.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmViewSwiftBankName.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.Properties.Resources.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.csproj.GenerateResource.Cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BRSWIFT.dll
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BRSWIFT.pdb
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRSWIFT.pdb
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRSWIFT.dll
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRSWIFT.pdb
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.Approve_manual.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmImpfiletext.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmMessageImportError.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIFTBankMap.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftEditBrAuto.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftEditMdlAuto.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftEditMessage.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIFTFeeCal.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftImp.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftINMsgManual.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftMsgInfo.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftMsgList.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftMsgManual.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftMsgManualDup.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftMsgManualEdit.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftMsgManualInfo.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftRec.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftResend.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftResendInfo.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftStatement.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWAutoValue.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWBrAuto.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWChk.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWConditionBr.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWConditionMdl.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWModulAuto.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWValueMdl.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwNoRec.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWRMBrAuto.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmViewSwiftBankName.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.Properties.Resources.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.csproj.GenerateResource.Cache
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BRSWIFT.dll
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BRSWIFT.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRSWIFT.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRSWIFT.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.Approve_manual.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmImpfiletext.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmMessageImportError.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIFTBankMap.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftEditBrAuto.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftEditMdlAuto.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftEditMessage.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIFTFeeCal.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftImp.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftINMsgManual.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftMsgInfo.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftMsgList.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftMsgManual.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftMsgManualDup.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftMsgManualEdit.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftMsgManualInfo.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftRec.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftResend.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftResendInfo.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwiftStatement.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWAutoValue.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWBrAuto.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWChk.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWConditionBr.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWConditionMdl.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWModulAuto.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWIWValueMdl.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSwNoRec.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmSWRMBrAuto.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.frmViewSwiftBankName.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.Properties.Resources.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BR.BRSWIFT.csproj.GenerateResource.Cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BRSWIFT.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRSWIFT\obj\Debug\BRSWIFT.pdb

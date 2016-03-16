@@ -1,0 +1,16 @@
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\OUTPUT\BRSWIFT_TR_Inquiry.exe
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\OUTPUT\BRSWIFT_TR_Inquiry.pdb
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRSWIFT_TR_Inquiry\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.ProjectInstaller.resources
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.SWIFTTR_Inquiry.resources
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.csproj.GenerateResource.Cache
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.exe
+E:\Working\MSBSOURCE\WIP\PROGRAM\SOURCE_BRIDGE\MSB_SERVICES\BR_Services\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.pdb
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\OUTPUT\BRSWIFT_TR_Inquiry.exe
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\OUTPUT\BRSWIFT_TR_Inquiry.pdb
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRSWIFT_TR_Inquiry\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.ProjectInstaller.resources
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.SWIFTTR_Inquiry.resources
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.csproj.GenerateResource.Cache
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.exe
+D:\Working\Gateway MSB Dangdung\Ban tren may lap\MSB_BRIDGE\BR_Services\BRSWIFT_TR_Inquiry\obj\Debug\BRSWIFT_TR_Inquiry.pdb

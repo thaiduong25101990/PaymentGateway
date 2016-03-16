@@ -1,0 +1,50 @@
+D:\TEST\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\ResolveAssemblyReference.cache
+D:\TEST\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.ProjectInstaller.resources
+D:\TEST\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.VCB_Inquiry.resources
+D:\TEST\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.csproj.GenerateResource.Cache
+D:\TEST\BRVCB_Inquiry\BRVCB_Inquiry\bin\Debug\BRVCB_Inquiry.exe
+D:\TEST\BRVCB_Inquiry\BRVCB_Inquiry\bin\Debug\BRVCB_Inquiry.pdb
+D:\TEST\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.exe
+D:\TEST\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.pdb
+D:\TEST\ODBC\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.exe
+D:\TEST\ODBC\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.pdb
+D:\TEST\ODBC\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\ResolveAssemblyReference.cache
+D:\TEST\ODBC\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.ProjectInstaller.resources
+D:\TEST\ODBC\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.VCB_Inquiry.resources
+D:\TEST\ODBC\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.csproj.GenerateResource.Cache
+D:\TEST\ODBC\BRVCB_Inquiry\BRVCB_Inquiry\bin\Debug\BRVCB_Inquiry.exe
+D:\TEST\ODBC\BRVCB_Inquiry\BRVCB_Inquiry\bin\Debug\BRVCB_Inquiry.pdb
+D:\ODBC\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.exe
+D:\ODBC\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.pdb
+D:\ODBC\BRVCB_Inquiry\BRVCB_Inquiry\bin\Debug\BRVCB_Inquiry.exe
+D:\ODBC\BRVCB_Inquiry\BRVCB_Inquiry\bin\Debug\BRVCB_Inquiry.pdb
+D:\ODBC\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\ResolveAssemblyReference.cache
+D:\ODBC\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.ProjectInstaller.resources
+D:\ODBC\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.VCB_Inquiry.resources
+D:\ODBC\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.csproj.GenerateResource.Cache
+D:\ODBC_BRVCB_Inquiry\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.exe
+D:\ODBC_BRVCB_Inquiry\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.pdb
+D:\ODBC_BRVCB_Inquiry\BRVCB_Inquiry\BRVCB_Inquiry\bin\Debug\BRVCB_Inquiry.exe
+D:\ODBC_BRVCB_Inquiry\BRVCB_Inquiry\BRVCB_Inquiry\bin\Debug\BRVCB_Inquiry.pdb
+D:\ODBC_BRVCB_Inquiry\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\ResolveAssemblyReference.cache
+D:\ODBC_BRVCB_Inquiry\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.ProjectInstaller.resources
+D:\ODBC_BRVCB_Inquiry\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.VCB_Inquiry.resources
+D:\ODBC_BRVCB_Inquiry\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.csproj.GenerateResource.Cache
+D:\THU MUC LAM VIEC_MSB\ODBC_BRVCB_Inquiry\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.exe
+D:\THU MUC LAM VIEC_MSB\ODBC_BRVCB_Inquiry\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.pdb
+D:\THU MUC LAM VIEC_MSB\ODBC_BRVCB_Inquiry\OL3\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.exe
+D:\THU MUC LAM VIEC_MSB\ODBC_BRVCB_Inquiry\OL3\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.pdb
+D:\THU MUC LAM VIEC_MSB\ODBC_BRVCB_Inquiry\OL3\BRVCB_Inquiry\BRVCB_Inquiry\bin\Debug\BRVCB_Inquiry.exe
+D:\THU MUC LAM VIEC_MSB\ODBC_BRVCB_Inquiry\OL3\BRVCB_Inquiry\BRVCB_Inquiry\bin\Debug\BRVCB_Inquiry.pdb
+D:\THU MUC LAM VIEC_MSB\ODBC_BRVCB_Inquiry\OL3\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\ResolveAssemblyReference.cache
+D:\THU MUC LAM VIEC_MSB\ODBC_BRVCB_Inquiry\OL3\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.ProjectInstaller.resources
+D:\THU MUC LAM VIEC_MSB\ODBC_BRVCB_Inquiry\OL3\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.VCB_Inquiry.resources
+D:\THU MUC LAM VIEC_MSB\ODBC_BRVCB_Inquiry\OL3\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.csproj.GenerateResource.Cache
+D:\THU MUC LAM VIEC_MSB\ODBC_BRVCB_Inquiry\BANK_CODE\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.exe
+D:\THU MUC LAM VIEC_MSB\ODBC_BRVCB_Inquiry\BANK_CODE\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.pdb
+D:\THU MUC LAM VIEC_MSB\ODBC_BRVCB_Inquiry\BANK_CODE\BRVCB_Inquiry\BRVCB_Inquiry\bin\Debug\BRVCB_Inquiry.exe
+D:\THU MUC LAM VIEC_MSB\ODBC_BRVCB_Inquiry\BANK_CODE\BRVCB_Inquiry\BRVCB_Inquiry\bin\Debug\BRVCB_Inquiry.pdb
+D:\THU MUC LAM VIEC_MSB\ODBC_BRVCB_Inquiry\BANK_CODE\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\ResolveAssemblyReference.cache
+D:\THU MUC LAM VIEC_MSB\ODBC_BRVCB_Inquiry\BANK_CODE\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.ProjectInstaller.resources
+D:\THU MUC LAM VIEC_MSB\ODBC_BRVCB_Inquiry\BANK_CODE\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.VCB_Inquiry.resources
+D:\THU MUC LAM VIEC_MSB\ODBC_BRVCB_Inquiry\BANK_CODE\BRVCB_Inquiry\BRVCB_Inquiry\obj\Debug\BRVCB_Inquiry.csproj.GenerateResource.Cache

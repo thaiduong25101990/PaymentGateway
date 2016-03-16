@@ -1,0 +1,21 @@
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BR.DataAccess.dll
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRDataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRDataAccess\obj\Debug\BR.DataAccess.Properties.Resources.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRDataAccess\obj\Debug\BR.DataAccess.csproj.GenerateResource.Cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRDataAccess\obj\Debug\BR.DataAccess.dll
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRDataAccess\obj\Debug\BR.DataAccess.pdb
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BR.DataAccess.pdb
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BR.DataAccess.dll
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BR.DataAccess.pdb
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRDataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRDataAccess\obj\Debug\BR.DataAccess.Properties.Resources.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRDataAccess\obj\Debug\BR.DataAccess.csproj.GenerateResource.Cache
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRDataAccess\obj\Debug\BR.DataAccess.dll
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRDataAccess\obj\Debug\BR.DataAccess.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BR.DataAccess.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BR.DataAccess.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRDataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRDataAccess\obj\Debug\BR.DataAccess.Properties.Resources.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRDataAccess\obj\Debug\BR.DataAccess.csproj.GenerateResource.Cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRDataAccess\obj\Debug\BR.DataAccess.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRDataAccess\obj\Debug\BR.DataAccess.pdb

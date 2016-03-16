@@ -1,0 +1,151 @@
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRIBPS.dll
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.Branch.frmExtractData.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSBankMap.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSImpFile.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgFw.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgFwCurrentDay.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgFwPreviousDay.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgInfo.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgList.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSRecManagement.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSResend.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSResendMsgInfo.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmImpfiletext.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIQSList.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIQSNew1.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIQSNew2.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmMessageError.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmMessageImportError.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmRates.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmSelectTypeIQS.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmTADInfo.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSRec.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmTAD_MAP.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmView.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.Properties.Resources.resources
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.csproj.GenerateResource.Cache
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BRIBPS.dll
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BRIBPS.pdb
+D:\MSB_SOURCE_BRIDGE\BR_Monitor\OUTPUT\BRIBPS.pdb
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRIBPS.dll
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRIBPS.pdb
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\ResolveAssemblyReference.cache
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.Branch.frmExtractData.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSBankMap.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSImpFile.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgFw.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgFwCurrentDay.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgFwPreviousDay.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgInfo.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgList.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSRecManagement.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSResend.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSResendMsgInfo.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmImpfiletext.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIQSList.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIQSNew1.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIQSNew2.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmMessageError.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmMessageImportError.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmRates.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmSelectTypeIQS.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmTADInfo.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSRec.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmTAD_MAP.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmView.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.Properties.Resources.resources
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.csproj.GenerateResource.Cache
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BRIBPS.dll
+E:\Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BRIBPS.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRIBPS.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\OUTPUT\BRIBPS.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.Branch.frmExtractData.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSBankMap.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSImpFile.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgFw.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgFwCurrentDay.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgFwPreviousDay.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgInfo.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgList.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSRecManagement.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSResend.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSResendMsgInfo.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmImpfiletext.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIQSList.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIQSNew1.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIQSNew2.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmMessageError.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmMessageImportError.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmRates.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmSelectTypeIQS.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmTADInfo.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSRec.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmTAD_MAP.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmView.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.Properties.Resources.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.csproj.GenerateResource.Cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BRIBPS.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BR_Monitor\BRIBPS\obj\Debug\BRIBPS.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\BRIBPS.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\OUTPUT\BRIBPS.pdb
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\ResolveAssemblyReference.cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.Branch.frmExtractData.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSBankMap.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSImpFile.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgFw.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgFwCurrentDay.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgFwPreviousDay.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgInfo.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgList.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSRecManagement.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSResend.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSResendMsgInfo.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmImpfiletext.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIQSList.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIQSNew1.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIQSNew2.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmMessageError.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmMessageImportError.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmRates.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmSelectTypeIQS.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmTADInfo.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSRec.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmTAD_MAP.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmView.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.Properties.Resources.resources
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.csproj.GenerateResource.Cache
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BRIBPS.dll
+D:\MSB_Working\Gateway MSB Dangdung\MSB_BRIDGE\BanGoc\BR_Monitor\BRIBPS\obj\Debug\BRIBPS.pdb
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\BRIBPS.dll
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\OUTPUT\BRIBPS.pdb
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\ResolveAssemblyReference.cache
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.Branch.frmExtractData.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSBankMap.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSImpFile.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgFw.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgFwCurrentDay.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgFwPreviousDay.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgInfo.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSMsgList.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSRecManagement.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSResend.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSResendMsgInfo.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPS_TAD_MAP.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmImpfiletext.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIQSList.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIQSNew1.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIQSNew2.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmMessageError.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmMessageImportError.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmRates.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmSelectTypeIQS.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmTADInfo.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmIBPSRec.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmTAD_MAP.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.frmView.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.Properties.Resources.resources
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BR.BRIBPS.csproj.GenerateResource.Cache
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BRIBPS.dll
+D:\MSBWorking\FPTBridge\PaymentGW\BR_Monitor\BRIBPS\obj\Debug\BRIBPS.pdb

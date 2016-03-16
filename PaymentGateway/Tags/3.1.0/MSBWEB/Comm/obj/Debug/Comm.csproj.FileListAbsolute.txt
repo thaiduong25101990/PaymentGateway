@@ -1,0 +1,45 @@
+D:\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\bin\Debug\BIDVWEB.Comm.dll
+D:\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\bin\Debug\BIDVWEB.Comm.pdb
+D:\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\bin\Debug\Microsoft.VisualStudio.Data.Providers.Oracle.dll
+D:\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\obj\Debug\ResolveAssemblyReference.cache
+D:\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\obj\Debug\BIDVWEB.Comm.dll
+D:\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\obj\Debug\BIDVWEB.Comm.pdb
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\bin\Debug\BIDVWEB.Comm.dll
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\bin\Debug\BIDVWEB.Comm.pdb
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\bin\Debug\Microsoft.VisualStudio.Data.Providers.Oracle.dll
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\bin\Debug\Oracle.DataAccess.dll
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\obj\Debug\BIDVWEB.Comm.dll
+D:\PROJECT\VID PUBLIC BANK\OUTSOURCE\MSB\GateWay\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\obj\Debug\BIDVWEB.Comm.pdb
+D:\Projects\GATEWAY\GATEWAY1\GATEWAY\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\bin\Debug\BIDVWEB.Comm.dll
+D:\Projects\GATEWAY\GATEWAY1\GATEWAY\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\bin\Debug\BIDVWEB.Comm.pdb
+D:\Projects\GATEWAY\GATEWAY1\GATEWAY\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\bin\Debug\Microsoft.VisualStudio.Data.Providers.Oracle.dll
+D:\Projects\GATEWAY\GATEWAY1\GATEWAY\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\GATEWAY\GATEWAY1\GATEWAY\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\obj\Debug\BIDVWEB.Comm.dll
+D:\Projects\GATEWAY\GATEWAY1\GATEWAY\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\obj\Debug\BIDVWEB.Comm.pdb
+D:\Projects\GATEWAY\GATEWAY1\GATEWAY\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\bin\Debug\Oracle.DataAccess.dll
+D:\Projects\GATEWAY\BAN GIAO NGAY 25022012\WEB\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\GATEWAY\BAN GIAO NGAY 25022012\WEB\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\obj\Debug\BIDVWEB.Comm.dll
+D:\Projects\GATEWAY\BAN GIAO NGAY 25022012\WEB\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\bin\Debug\BIDVWEB.Comm.dll
+D:\Projects\GATEWAY\BAN GIAO NGAY 25022012\WEB\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\bin\Debug\BIDVWEB.Comm.pdb
+D:\Projects\GATEWAY\BAN GIAO NGAY 25022012\WEB\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\bin\Debug\Microsoft.VisualStudio.Data.Providers.Oracle.dll
+D:\Projects\GATEWAY\BAN GIAO NGAY 25022012\WEB\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\bin\Debug\Oracle.DataAccess.dll
+D:\Projects\GATEWAY\BAN GIAO NGAY 25022012\WEB\MSBWEB\BIDVWEB.root\BIDVWEB\Comm\obj\Debug\BIDVWEB.Comm.pdb
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB\Comm\bin\Debug\BIDVWEB.Comm.dll
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB\Comm\bin\Debug\BIDVWEB.Comm.pdb
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB\Comm\bin\Debug\Microsoft.VisualStudio.Data.Providers.Oracle.dll
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB\Comm\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB\Comm\obj\Debug\BIDVWEB.Comm.dll
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB\Comm\obj\Debug\BIDVWEB.Comm.pdb
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB_20120508\BIDVWEB\Comm\bin\Debug\BIDVWEB.Comm.dll
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB_20120508\BIDVWEB\Comm\bin\Debug\BIDVWEB.Comm.pdb
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB_20120508\BIDVWEB\Comm\bin\Debug\Microsoft.VisualStudio.Data.Providers.Oracle.dll
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB_20120508\BIDVWEB\Comm\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB_20120508\BIDVWEB\Comm\obj\Debug\BIDVWEB.Comm.dll
+D:\Projects\GATEWAY\BIDVWEB_Minh MSB\BIDVWEB_20120508\BIDVWEB\Comm\obj\Debug\BIDVWEB.Comm.pdb
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Comm\bin\Debug\BIDVWEB.Comm.dll
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Comm\bin\Debug\BIDVWEB.Comm.pdb
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Comm\bin\Debug\Microsoft.VisualStudio.Data.Providers.Oracle.dll
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Comm\obj\Debug\ResolveAssemblyReference.cache
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Comm\obj\Debug\BIDVWEB.Comm.dll
+D:\WEBDeploy\BIDVWEB_20120517\BIDVWEB_20120508\BIDVWEB\Comm\obj\Debug\BIDVWEB.Comm.pdb
